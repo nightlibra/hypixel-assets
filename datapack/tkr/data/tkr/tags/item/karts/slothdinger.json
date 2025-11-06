@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:end_portal_frame",
+    "minecraft:activator_rail",
+    "minecraft:powered_rail",
+    "minecraft:snow",
+    "minecraft:stone_pressure_plate",
+    "minecraft:cobblestone_stairs",
+    "minecraft:dragon_egg",
+    "minecraft:oak_pressure_plate"
+  ]
+}

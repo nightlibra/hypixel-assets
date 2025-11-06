@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:furnace",
+    "minecraft:crafting_table",
+    "minecraft:chipped_anvil",
+    "minecraft:emerald_ore",
+    "minecraft:redstone_ore",
+    "minecraft:acacia_fence",
+    "minecraft:dark_oak_fence",
+    "minecraft:gold_ore"
+  ]
+}

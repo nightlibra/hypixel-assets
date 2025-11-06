@@ -1,0 +1,304 @@
+{
+  "pools": [
+  	{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 13717841}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16050241}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 4301044}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16050241}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16007489}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16007489}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16044097}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16007557}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 8385601}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 4322500}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 9838881}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 1581840}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 10264709}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 9282406}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 15724522}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 2578716}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 7699572}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 9131432}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 4768865}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 13542239}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 5887689}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 2040611}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 2840873}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 7185816}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 8670826}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 10061880}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 47019}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 3316044}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 9845549}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_helmet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:dyed_color": 16720128}}]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:hay_block",
+    "minecraft:dark_oak_sapling",
+    "minecraft:jungle_sapling",
+    "minecraft:jungle_fence_gate",
+    "minecraft:spruce_fence_gate",
+    "minecraft:dark_oak_fence_gate",
+    "minecraft:oak_fence_gate",
+    "minecraft:birch_fence_gate"
+  ]
+}

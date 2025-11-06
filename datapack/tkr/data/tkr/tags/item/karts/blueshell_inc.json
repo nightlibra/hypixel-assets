@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:dispenser",
+    "minecraft:rail",
+    "minecraft:damaged_anvil",
+    "minecraft:nether_brick_fence",
+    "minecraft:nether_quartz_ore",
+    "minecraft:light_gray_wool",
+    "minecraft:smooth_stone_slab",
+    "minecraft:lapis_ore"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_carpet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_gray_carpet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_carpet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobblestone_wall",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:acacia_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    }
+  ]
+}

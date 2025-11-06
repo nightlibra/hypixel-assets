@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_sapling",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spruce_sapling",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_tulip",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:mossy_cobblestone_wall",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    }
+  ]
+}

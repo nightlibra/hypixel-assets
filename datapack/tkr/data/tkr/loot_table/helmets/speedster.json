@@ -1,0 +1,84 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_tulip",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_tulip",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_tulip",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:quartz_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:birch_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brick_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    }
+  ]
+}

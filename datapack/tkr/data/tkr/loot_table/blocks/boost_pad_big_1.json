@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_mushroom_block",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "Speed Boost Big 1",
+                "minecraft:block_state": {
+                  "north": "true",
+                  "south": "false",
+                  "east": "false",
+                  "west": "true",
+                  "up": "false",
+                  "down": "false"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

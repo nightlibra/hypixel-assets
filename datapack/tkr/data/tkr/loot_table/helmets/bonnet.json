@@ -1,0 +1,74 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_carpet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_carpet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_carpet",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone_brick_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:red_sandstone_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_stairs",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:acacia_fence_gate",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    }
+  ]
+}

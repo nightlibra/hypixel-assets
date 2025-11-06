@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_mushroom_block",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "Jump Pad",
+                "minecraft:block_state": {
+                  "north": "false",
+                  "south": "true",
+                  "east": "false",
+                  "west": "false",
+                  "up": "false",
+                  "down": "false"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

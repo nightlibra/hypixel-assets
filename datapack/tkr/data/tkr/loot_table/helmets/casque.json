@@ -1,0 +1,84 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:hay_block",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_sapling",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_sapling",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jungle_fence_gate",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spruce_fence_gate",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_fence_gate",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:oak_fence_gate",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:birch_fence_gate",
+          "functions": [{"function": "minecraft:set_components", "components": {"minecraft:equippable": {"slot": "head"}}}]
+        }
+      ]
+    }
+  ]
+}
