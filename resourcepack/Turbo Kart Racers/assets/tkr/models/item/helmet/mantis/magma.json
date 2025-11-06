@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/helmet/mantis",
+  "textures": {
+    "texture": "tkr:item/helmet/mantis/magma"
+  }
+}

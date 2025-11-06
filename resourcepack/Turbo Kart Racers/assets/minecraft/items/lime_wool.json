@@ -1,0 +1,125 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": {"extra": [{"text": "Creeper Attack", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/creeper_attack"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Creeper Attack", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/creeper_attack"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Cyber Circuit", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/cyber_circuit"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Cyber Circuit", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/cyber_circuit"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Dragon Tamer", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/dragon_tamer"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Dragon Tamer", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/dragon_tamer"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Goldline", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/goldline"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Goldline", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/goldline"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Speed Champion", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/speed_champion"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Speed Champion", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/speed_champion"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Sunrise", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/sunrise"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Sunrise", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/sunrise"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Ultraviolet", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/ultraviolet"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Ultraviolet", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/ultraviolet"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "White Panther", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/white_panther"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "White Panther", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/slothdinger/white_panther"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/lime_wool"
+		}
+	}
+}

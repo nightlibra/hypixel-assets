@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "description": "Cops and Crims Resource Pack"
+  },
+  "meta": {
+    "pack_type": 1,
+    "pack_version": "3.1",
+    "game_version": "1.21.2",
+    "pack_resolution": "32x",
+    "description": "Created by Hypixel",
+    "consists": "Sounds and Textures."
+  }
+}

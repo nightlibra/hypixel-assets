@@ -1,0 +1,877 @@
+{
+  "botmun.crystal": {
+    "category": "master",
+    "sounds": [
+      "botmun/crystal"
+    ]
+  },
+  "botmun.pain": {
+    "category": "master",
+    "sounds": [
+      "botmun/pain1",
+      "botmun/pain2"
+    ]
+  },
+  "botmun.select": {
+    "category": "master",
+    "sounds": [
+      "botmun/select"
+    ]
+  },
+  "botmun.smashed": {
+    "category": "master",
+    "sounds": [
+      "botmun/smashed"
+    ]
+  },
+  "botmun.taunt": {
+    "category": "master",
+    "sounds": [
+      "botmun/taunt"
+    ]
+  },
+  "bulk.active": {
+    "category": "master",
+    "sounds": [
+      "bulk/active"
+    ]
+  },
+  "bulk.car.impact": {
+    "category": "master",
+    "sounds": [
+      "bulk/car_impact"
+    ]
+  },
+  "bulk.charge": {
+    "category": "master",
+    "sounds": [
+      "bulk/charge"
+    ]
+  },
+  "bulk.crystal": {
+    "category": "master",
+    "sounds": [
+      "bulk/crystal"
+    ]
+  },
+  "bulk.pain": {
+    "category": "master",
+    "sounds": [
+      "bulk/pain1",
+      "bulk/pain2"
+    ]
+  },
+  "bulk.passive": {
+    "category": "master",
+    "sounds": [
+      "bulk/passive"
+    ]
+  },
+  "bulk.select": {
+    "category": "master",
+    "sounds": [
+      "bulk/select"
+    ]
+  },
+  "bulk.smashed": {
+    "category": "master",
+    "sounds": [
+      "bulk/smashed"
+    ]
+  },
+  "bulk.taunt": {
+    "category": "master",
+    "sounds": [
+      "bulk/taunt"
+    ]
+  },
+  "cakemonster.crystal": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/crystal"
+    ]
+  },
+  "cakemonster.defecake.activation": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/defecake_activation"
+    ]
+  },
+  "cakemonster.pain": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/pain1",
+      "cakemonster/pain2"
+    ]
+  },
+  "cakemonster.reguricake.activation": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/reguricake_activation"
+    ]
+  },
+  "cakemonster.select": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/select"
+    ]
+  },
+  "cakemonster.smashed": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/smashed"
+    ]
+  },
+  "cakemonster.taunt": {
+    "category": "master",
+    "sounds": [
+      "cakemonster/taunt"
+    ]
+  },
+  "duskcrawler.crystal": {
+    "category": "master",
+    "sounds": [
+      "duskcrawler/crystal"
+    ]
+  },
+  "duskcrawler.pain": {
+    "category": "master",
+    "sounds": [
+      "duskcrawler/pain1",
+      "duskcrawler/pain2"
+    ]
+  },
+  "duskcrawler.select": {
+    "category": "master",
+    "sounds": [
+      "duskcrawler/select"
+    ]
+  },
+  "duskcrawler.smashed": {
+    "category": "master",
+    "sounds": [
+      "duskcrawler/smashed"
+    ]
+  },
+  "duskcrawler.taunt": {
+    "category": "master",
+    "sounds": [
+      "duskcrawler/taunt"
+    ]
+  },
+  "frostmage.crystal": {
+    "category": "master",
+    "sounds": [
+      "frostmage/crystal"
+    ]
+  },
+  "frostmage.freezingbreath.activation": {
+    "category": "master",
+    "sounds": [
+      "frostmage/freezingbreath_activation"
+    ]
+  },
+  "frostmage.frostbolt.activation": {
+    "category": "master",
+    "sounds": [
+      "frostmage/frostbolt_activation"
+    ]
+  },
+  "frostmage.frostbolt.impact": {
+    "category": "master",
+    "sounds": [
+      "frostmage/frostbolt_impact"
+    ]
+  },
+  "frostmage.icebarrier.activation": {
+    "category": "master",
+    "sounds": [
+      "frostmage/icebarrier_activation"
+    ]
+  },
+  "frostmage.pain": {
+    "category": "master",
+    "sounds": [
+      "frostmage/pain1",
+      "frostmage/pain2"
+    ]
+  },
+  "frostmage.select": {
+    "category": "master",
+    "sounds": [
+      "frostmage/select"
+    ]
+  },
+  "frostmage.smashed": {
+    "category": "master",
+    "sounds": [
+      "frostmage/smashed"
+    ]
+  },
+  "frostmage.taunt": {
+    "category": "master",
+    "sounds": [
+      "frostmage/taunt"
+    ]
+  },
+  "generalcluck.bazookafire": {
+    "category": "master",
+    "sounds": [
+      "generalcluck/bazookafire"
+    ]
+  },
+  "generalcluck.crystal": {
+    "category": "master",
+    "sounds": [
+      "generalcluck/crystal"
+    ]
+  },
+  "generalcluck.pain": {
+    "category": "master",
+    "sounds": [
+      "generalcluck/pain1",
+      "generalcluck/pain2"
+    ]
+  },
+  "generalcluck.select": {
+    "category": "master",
+    "sounds": [
+      "generalcluck/select"
+    ]
+  },
+  "generalcluck.smashed": {
+    "category": "master",
+    "sounds": [
+      "generalcluck/smashed"
+    ]
+  },
+  "generalcluck.taunt": {
+    "category": "master",
+    "sounds": [
+      "generalcluck/taunt"
+    ]
+  },
+  "goku.crystal": {
+    "category": "master",
+    "sounds": [
+      "goku/crystal"
+    ]
+  },
+  "goku.kiblast": {
+    "category": "master",
+    "sounds": [
+      "goku/kiblast"
+    ]
+  },
+  "goku.pain": {
+    "category": "master",
+    "sounds": [
+      "goku/pain1",
+      "goku/pain2"
+    ]
+  },
+  "goku.select": {
+    "category": "master",
+    "sounds": [
+      "goku/select"
+    ]
+  },
+  "goku.smashed": {
+    "category": "master",
+    "sounds": [
+      "goku/smashed"
+    ]
+  },
+  "goku.taunt": {
+    "category": "master",
+    "sounds": [
+      "goku/taunt"
+    ]
+  },
+  "goku.teleport": {
+    "category": "master",
+    "sounds": [
+      "goku/teleport"
+    ]
+  },
+  "greenhood.crystal": {
+    "category": "master",
+    "sounds": [
+      "greenhood/crystal"
+    ]
+  },
+  "greenhood.pain": {
+    "category": "master",
+    "sounds": [
+      "greenhood/pain1",
+      "greenhood/pain2"
+    ]
+  },
+  "greenhood.select": {
+    "category": "master",
+    "sounds": [
+      "greenhood/select"
+    ]
+  },
+  "greenhood.smashed": {
+    "category": "master",
+    "sounds": [
+      "greenhood/smashed"
+    ]
+  },
+  "greenhood.taunt": {
+    "category": "master",
+    "sounds": [
+      "greenhood/taunt"
+    ]
+  },
+  "jestress.active": {
+    "category": "master",
+    "sounds": [
+      "jestress/active"
+    ]
+  },
+  "jestress.crystal": {
+    "category": "master",
+    "sounds": [
+      "jestress/crystal"
+    ]
+  },
+  "jestress.pain": {
+    "category": "master",
+    "sounds": [
+      "jestress/pain1",
+      "jestress/pain2"
+    ]
+  },
+  "jestress.pitch": {
+    "category": "master",
+    "sounds": [
+      "jestress/pitch1"
+    ]
+  },
+  "jestress.select": {
+    "category": "master",
+    "sounds": [
+      "jestress/select"
+    ]
+  },
+  "jestress.smashed": {
+    "category": "master",
+    "sounds": [
+      "jestress/smashed"
+    ]
+  },
+  "jestress.taunt": {
+    "category": "master",
+    "sounds": [
+      "jestress/taunt"
+    ]
+  },
+  "marauder.forcejump": {
+    "category": "master",
+    "sounds": [
+      "marauder/forcejump"
+    ]
+  },
+  "marauder.forcelightning.activation": {
+    "category": "master",
+    "sounds": [
+      "marauder/forcelightning_activation"
+    ]
+  },
+  "marauder.forcelightning.impact": {
+    "category": "master",
+    "sounds": [
+      "marauder/forcelightning_impact1",
+      "marauder/forcelightning_impact2",
+      "marauder/forcelightning_impact3"
+    ]
+  },
+  "marauder.forceunleashed": {
+    "category": "master",
+    "sounds": [
+      "marauder/forceunleashed"
+    ]
+  },
+  "marauder.grip.activation": {
+    "category": "master",
+    "sounds": [
+      "marauder/grip_activation"
+    ]
+  },
+  "marauder.grip.impacta": {
+    "category": "master",
+    "sounds": [
+      "marauder/grip_impacta"
+    ]
+  },
+  "marauder.grip.impactb": {
+    "category": "master",
+    "sounds": [
+      "marauder/grip_impactb"
+    ]
+  },
+  "marauder.pain": {
+    "category": "master",
+    "sounds": [
+      "marauder/pain1",
+      "marauder/pain2"
+    ]
+  },
+  "marauder.select": {
+    "category": "master",
+    "sounds": [
+      "marauder/select"
+    ]
+  },
+  "marauder.smashed": {
+    "category": "master",
+    "sounds": [
+      "marauder/smashed"
+    ]
+  },
+  "marauder.taunt": {
+    "category": "master",
+    "sounds": [
+      "marauder/taunt"
+    ]
+  },
+  "mrmonster.active": {
+    "category": "master",
+    "sounds": [
+      "mrmonster/active1",
+      "mrmonster/active2"
+    ]
+  },
+  "mrmonster.crystal": {
+    "category": "master",
+    "sounds": [
+      "mrmonster/crystal"
+    ]
+  },
+  "mrmonster.pain": {
+    "category": "master",
+    "sounds": [
+      "mrmonster/pain1",
+      "mrmonster/pain2"
+    ]
+  },
+  "mrmonster.select": {
+    "category": "master",
+    "sounds": [
+      "mrmonster/select"
+    ]
+  },
+  "mrmonster.smashed": {
+    "category": "master",
+    "sounds": [
+      "mrmonster/smashed"
+    ]
+  },
+  "mrmonster.taunt": {
+    "category": "master",
+    "sounds": [
+      "mrmonster/taunt"
+    ]
+  },
+  "pug.intruders.activation": {
+    "category": "master",
+    "sounds": [
+      "pug/intruders_activation"
+    ]
+  },
+  "sanic.munch": {
+    "category": "master",
+    "sounds": [
+      "sanic/munch"
+    ]
+  },
+  "sanic.sizzle": {
+    "category": "master",
+    "sounds": [
+      "sanic/sizzle"
+    ]
+  },
+  "sanic.theme": {
+    "category": "master",
+    "sounds": [
+      "sanic/theme"
+    ]
+  },
+  "sanic.crystal": {
+    "category": "master",
+    "sounds": [
+      "sanic/crystal"
+    ]
+  },
+  "sanic.pain": {
+    "category": "master",
+    "sounds": [
+      "sanic/pain1",
+      "sanic/pain2"
+    ]
+  },
+  "sanic.select": {
+    "category": "master",
+    "sounds": [
+      "sanic/select"
+    ]
+  },
+  "sanic.smashed": {
+    "category": "master",
+    "sounds": [
+      "sanic/smashed"
+    ]
+  },
+  "sanic.taunt": {
+    "category": "master",
+    "sounds": [
+      "sanic/taunt"
+    ]
+  },
+  "sgtshield.crystal": {
+    "category": "master",
+    "sounds": [
+      "sgtshield/crystal"
+    ]
+  },
+  "sgtshield.pain": {
+    "category": "master",
+    "sounds": [
+      "sgtshield/pain1",
+      "sgtshield/pain2"
+    ]
+  },
+  "sgtshield.reflect": {
+    "category": "master",
+    "sounds": [
+      "sgtshield/reflect"
+    ]
+  },
+  "sgtshield.select": {
+    "category": "master",
+    "sounds": [
+      "sgtshield/select"
+    ]
+  },
+  "sgtshield.smashed": {
+    "category": "master",
+    "sounds": [
+      "sgtshield/smashed"
+    ]
+  },
+  "sgtshield.taunt": {
+    "category": "master",
+    "sounds": [
+      "sgtshield/taunt"
+    ]
+  },
+  "shoopdawhoop.active": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/active"
+    ]
+  },
+  "shoopdawhoop.chargedbeam.big": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/chargedbeam_big"
+    ]
+  },
+  "shoopdawhoop.chargedbeam.small": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/chargedbeam_small"
+    ]
+  },
+  "shoopdawhoop.crystal": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/crystal"
+    ]
+  },
+  "shoopdawhoop.pain": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/pain1",
+      "shoopdawhoop/pain2"
+    ]
+  },
+  "shoopdawhoop.select": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/select"
+    ]
+  },
+  "shoopdawhoop.smashed": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/smashed"
+    ]
+  },
+  "shoopdawhoop.taunt": {
+    "category": "master",
+    "sounds": [
+      "shoopdawhoop/taunt"
+    ]
+  },
+  "skullfire.crystal": {
+    "category": "master",
+    "sounds": [
+      "skullfire/crystal"
+    ]
+  },
+  "skullfire.explodegrenade": {
+    "category": "master",
+    "sounds": [
+      "skullfire/explodegrenade"
+    ]
+  },
+  "skullfire.grenadethrow": {
+    "category": "master",
+    "sounds": [
+      "skullfire/grenadethrow"
+    ]
+  },
+  "skullfire.magnumshot": {
+    "category": "master",
+    "sounds": [
+      "skullfire/magnumshot01"
+    ]
+  },
+  "skullfire.pain": {
+    "category": "master",
+    "sounds": [
+      "skullfire/pain1",
+      "skullfire/pain2"
+    ]
+  },
+  "skullfire.select": {
+    "category": "master",
+    "sounds": [
+      "skullfire/select"
+    ]
+  },
+  "skullfire.smashed": {
+    "category": "master",
+    "sounds": [
+      "skullfire/smashed"
+    ]
+  },
+  "skullfire.taunt": {
+    "category": "master",
+    "sounds": [
+      "skullfire/taunt"
+    ]
+  },
+  "smashcrystal.smashcrystalspawn": {
+    "category": "master",
+    "sounds": [
+      "smashcrystal/smashcrystalspawn"
+    ]
+  },
+  "smashcrystal.notready": {
+    "category": "master",
+    "sounds": [
+      "smashcrystal/notready"
+    ]
+  },
+  "spooderman.crystal": {
+    "category": "master",
+    "sounds": [
+      "spooderman/crystal"
+    ]
+  },
+  "spooderman.pain": {
+    "category": "master",
+    "sounds": [
+      "spooderman/pain1",
+      "spooderman/pain2"
+    ]
+  },
+  "spooderman.select": {
+    "category": "master",
+    "sounds": [
+      "spooderman/select"
+    ]
+  },
+  "spooderman.smashed": {
+    "category": "master",
+    "sounds": [
+      "spooderman/smashed"
+    ]
+  },
+  "spooderman.taunt": {
+    "category": "master",
+    "sounds": [
+      "spooderman/taunt"
+    ]
+  },
+  "tinman.active": {
+    "category": "master",
+    "sounds": [
+      "tinman/active"
+    ]
+  },
+  "tinman.blastershot": {
+    "category": "master",
+    "sounds": [
+      "tinman/blastershot1"
+    ]
+  },
+  "tinman.crystal": {
+    "category": "master",
+    "sounds": [
+      "tinman/crystal"
+    ]
+  },
+  "tinman.pain": {
+    "category": "master",
+    "sounds": [
+      "tinman/pain1",
+      "tinman/pain2"
+    ]
+  },
+  "tinman.passive": {
+    "category": "master",
+    "sounds": [
+      "tinman/passive"
+    ]
+  },
+  "tinman.select": {
+    "category": "master",
+    "sounds": [
+      "tinman/select"
+    ]
+  },
+  "tinman.smashed": {
+    "category": "master",
+    "sounds": [
+      "tinman/smashed"
+    ]
+  },
+  "tinman.taunt": {
+    "category": "master",
+    "sounds": [
+      "tinman/taunt"
+    ]
+  },
+  "announcer.joingame": {
+    "category": "master",
+    "sounds": [
+      "announcer/joingame1",
+      "announcer/joingame2",
+      "announcer/joingame3"
+    ]
+  },
+  "announcer.crystaldamage": {
+    "category": "master",
+    "sounds": [
+      "announcer/crystaldamage1",
+      "announcer/crystaldamage2",
+      "announcer/crystaldamage3"
+    ]
+  },
+  "announcer.maxknockback": {
+    "category": "master",
+    "sounds": [
+      "announcer/maxknockback1",
+      "announcer/maxknockback2",
+      "announcer/maxknockback3"
+    ]
+  },
+  "announcer.select": {
+    "category": "master",
+    "sounds": [
+      "announcer/select1",
+      "announcer/select2",
+      "announcer/select3",
+      "announcer/select4",
+      "announcer/select5",
+      "announcer/select6"
+    ]
+  },
+  "announcer.startgame": {
+    "category": "master",
+    "sounds": [
+      "announcer/startgame1",
+      "announcer/startgame2",
+      "announcer/startgame3"
+    ]
+  },
+  "announcer.smashed": {
+    "category": "master",
+    "sounds": [
+      "announcer/smashed1",
+      "announcer/smashed2",
+      "announcer/smashed3"
+    ]
+  },
+  "melee.explosion": {
+    "category": "master",
+    "sounds": [
+      "melee/explosion1",
+      "melee/explosion2"
+    ]
+  },
+  "melee.marauder.meleehit": {
+    "category": "master",
+    "sounds": [
+      "melee/marauder_meleehit1",
+      "melee/marauder_meleehit2"
+    ]
+  },
+  "melee.marauder.meleemiss": {
+    "category": "master",
+    "sounds": [
+      "melee/marauder_meleemiss1",
+      "melee/marauder_meleemiss2",
+      "melee/marauder_meleemiss3"
+    ]
+  },
+  "melee.pistolwhip": {
+    "category": "master",
+    "sounds": [
+      "melee/pistolwhip"
+    ]
+  },
+  "melee.punch.meleehit": {
+    "category": "master",
+    "sounds": [
+      "melee/punch_meleehit1",
+      "melee/punch_meleehit2"
+    ]
+  },
+  "melee.punch.meleemiss": {
+    "category": "master",
+    "sounds": [
+      "melee/punch_meleemiss1",
+      "melee/punch_meleemiss2"
+    ]
+  },
+  "melee.reload": {
+    "category": "master",
+    "sounds": [
+      "melee/reload"
+    ]
+  },
+  "melee.resupply": {
+    "category": "master",
+    "sounds": [
+      "melee/resupply"
+    ]
+  },
+  "melee.sword.meleehit": {
+    "category": "master",
+    "sounds": [
+      "melee/sword_meleehit1"
+    ]
+  },
+  "melee.sword.meleemiss": {
+    "category": "master",
+    "sounds": [
+      "melee/sword_meleemiss1"
+    ]
+  }
+}

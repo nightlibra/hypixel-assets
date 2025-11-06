@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Links",
+  "exit_action": {
+    "label": {
+      "translate": "gui.back"
+    },
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:options"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Hypixel Website",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://hypixel.net"
+      }
+    },
+    {
+      "label": "Project Discord",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://discord.gg/M7HqWKxDxS"
+      }
+    },
+    {
+      "label": "Project Github",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://github.com/nightlibra/hypixel-assets"
+      }
+    }
+  ]
+}

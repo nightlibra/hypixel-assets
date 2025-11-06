@@ -1,0 +1,139 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": {"extra": [{"text": "Aerodynamic Azalea", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/aerodynamic_azalea"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Aerodynamic Azalea", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/aerodynamic_azalea"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Beach Bubble", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/beach_bubble"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Beach Bubble", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/beach_bubble"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Citrus Sunset", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/citrus_sunset"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Citrus Sunset", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/citrus_sunset"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Glacius", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/glacius"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Glacius", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/glacius"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Golden Ace", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/golden_ace"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Golden Ace", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/golden_ace"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Salamander", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/salamander"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Salamander", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/salamander"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Silver Shadow", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/silver_shadow"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Silver Shadow", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/silver_shadow"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Street Sprinter", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/street_sprinter"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Street Sprinter", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/street_sprinter"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Tribal Hunter", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/tribal_hunter"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Tribal Hunter", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/sphax_corp/tribal_hunter"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/magenta_wool"
+		}
+	}
+}

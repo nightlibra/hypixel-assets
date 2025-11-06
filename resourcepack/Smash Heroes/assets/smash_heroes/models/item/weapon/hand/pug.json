@@ -1,0 +1,6 @@
+{
+  "parent": "smash_heroes:item/template_hand",
+  "textures": {
+    "texture": "smash_heroes:item/weapon/hand/pug"
+  }
+}

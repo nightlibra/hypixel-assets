@@ -1,0 +1,88 @@
+{
+  "__comment": "designed_by_hypixel_minecraft_server_with_bdcraft_cubik_pro_0.95_beta_-_http://bdcraft.net",
+  "textures": {
+    "texture": "smash_heroes:item/entity/effect/effect_4",
+    "particle": "#texture"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        -2.5,
+        2.5
+      ],
+      "to": [
+        16,
+        13.5,
+        2.5625
+      ],
+      "rotation": {
+        "origin": [
+          0,
+          13.5,
+          2.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "rotation": 90,
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "rotation": 270,
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -24
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -18,
+        -65,
+        0
+      ],
+      "translation": [
+        -6.05,
+        6.8,
+        -3.21
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    }
+  }
+}

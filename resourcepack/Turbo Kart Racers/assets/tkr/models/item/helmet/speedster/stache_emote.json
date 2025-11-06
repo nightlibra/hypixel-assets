@@ -1,0 +1,7 @@
+{
+  "parent": "tkr:item/helmet/speedster",
+  "textures": {
+    "texture": "tkr:item/helmet/speedster/stache_emote_1",
+    "texture2": "tkr:item/helmet/speedster/stache_emote_2"
+  }
+}

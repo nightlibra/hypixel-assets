@@ -1,0 +1,7 @@
+Updated by nightlibra for compatibility with Minecraft version 1.21.10
+
+More Turbo Kart Racers resources are available here:
+- https://hypixel.net/tkr/
+- https://hypixel.net/threads/1856344/ | TKR Assets Library
+- https://hypixel.net/threads/3203073/ | Clean Heatbar Addon
+- https://hypixel.net/threads/1908635/ | Grand Prix Masters Thread

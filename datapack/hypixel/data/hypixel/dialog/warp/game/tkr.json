@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Turbo Kart Racers",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp"
+    }
+  },
+  "columns": 2,
+  "actions": [
+    {
+      "label": "Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:tkr/lobby run tp @s -130 34 21 -90 0"
+      }
+    },
+    {
+      "label": "Map: Canyon",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:tkr/map/canyon run tp @s 307 11 293 -180 0"
+      }
+    },
+    {
+      "label": "Map: Hypixel GP",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:tkr/map/hypixel_gp run tp @s -388 58 191 180 0"
+      }
+    },
+    {
+      "label": "Map: Jungle Rush",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:tkr/map/jungle_rush run tp @s -12 64 -12 180 0"
+      }
+    },
+    {
+      "label": "Map: Olympus",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:tkr/map/olympus run tp @s -32 24 47 0 0"
+      }
+    },
+    {
+      "label": "Map: Retro",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:tkr/map/retro run tp @s 102 33 137 -90 0"
+      }
+    }
+  ]
+}

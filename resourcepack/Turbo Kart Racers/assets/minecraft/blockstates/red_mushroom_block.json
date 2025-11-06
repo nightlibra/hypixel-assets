@@ -1,0 +1,9 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "tkr:block/finish_line"
+			}
+		}
+	]
+}

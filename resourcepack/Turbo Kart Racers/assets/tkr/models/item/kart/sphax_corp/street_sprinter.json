@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/kart/sphax_corp",
+  "textures": {
+    "texture": "tkr:item/kart/sphax_corp/street_sprinter"
+  }
+}

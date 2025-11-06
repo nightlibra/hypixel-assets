@@ -1,0 +1,245 @@
+{
+  "galwars.blade.bladehit": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladehit1",
+      "galwars/blade/bladehit2",
+      "galwars/blade/bladehit3"
+    ]
+  },
+  "galwars.blade.bladeloop": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladeloop1"
+    ]
+  },
+  "galwars.blade.bladeoff": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladeoff1"
+    ]
+  },
+  "galwars.blade.bladeon": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladeon1"
+    ]
+  },
+  "galwars.blade.bladereflect": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladereflect1",
+      "galwars/blade/bladereflect2"
+    ]
+  },
+  "galwars.blade.bladeswingair": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladeswingair1",
+      "galwars/blade/bladeswingair2",
+      "galwars/blade/bladeswingair3",
+      "galwars/blade/bladeswingair4",
+      "galwars/blade/bladeswingair5",
+      "galwars/blade/bladeswingair6"
+    ]
+  },
+  "galwars.blade.bladethrow": {
+    "category": "master",
+    "sounds": [
+      "galwars/blade/bladethrow1"
+    ]
+  },
+  "galwars.empirecallouts.impgamestartclip": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/impgamestartclip"
+    ]
+  },
+  "galwars.empirecallouts.imppointalost": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/imppointalost"
+    ]
+  },
+  "galwars.empirecallouts.imppointblost": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/imppointblost"
+    ]
+  },
+  "galwars.empirecallouts.imppointclost": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/imppointclost"
+    ]
+  },
+  "galwars.empirecallouts.impsixtysecondsleft": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/impsixtysecondsleft"
+    ]
+  },
+  "galwars.empirecallouts.impthirtysecondsleft": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/impthirtysecondsleft"
+    ]
+  },
+  "galwars.empirecallouts.impwinmusic": {
+    "category": "master",
+    "sounds": [
+      "galwars/empirecallouts/impwinmusic"
+    ]
+  },
+  "galwars.misc.empshockwave": {
+    "category": "master",
+    "sounds": [
+      "galwars/misc/empshockwave1"
+    ]
+  },
+  "galwars.misc.flashbangexplode": {
+    "category": "master",
+    "sounds": [
+      "galwars/misc/flashbangexplode"
+    ]
+  },
+  "galwars.misc.grenadethrow": {
+    "category": "master",
+    "sounds": [
+      "galwars/misc/grenadethrow"
+    ]
+  },
+  "galwars.misc.heexplosion": {
+    "category": "master",
+    "sounds": [
+      "galwars/misc/heexplosion1"
+    ]
+  },
+  "galwars.misc.objectivecaptured": {
+    "category": "master",
+    "sounds": [
+      "galwars/misc/objectivecaptured"
+    ]
+  },
+  "galwars.misc.turretplaced": {
+    "category": "master",
+    "sounds": [
+      "galwars/misc/turretplaced1"
+    ]
+  },
+  "galwars.rangedweapons.blasterimpact": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/blasterimpact1",
+      "galwars/rangedweapons/blasterimpact2"
+    ]
+  },
+  "galwars.rangedweapons.blastershot": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/blastershot1",
+      "galwars/rangedweapons/blastershot2"
+    ]
+  },
+  "galwars.rangedweapons.bowcaster": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/bowcaster1",
+      "galwars/rangedweapons/bowcaster2"
+    ]
+  },
+  "galwars.rangedweapons.missleshot": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/missleshot1"
+    ]
+  },
+  "galwars.rangedweapons.pistolshot": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/pistolshot1"
+    ]
+  },
+  "galwars.rangedweapons.shotgun": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/shotgun1",
+      "galwars/rangedweapons/shotgun2"
+    ]
+  },
+  "galwars.rangedweapons.turretshot": {
+    "category": "master",
+    "sounds": [
+      "galwars/rangedweapons/turretshot1"
+    ]
+  },
+  "galwars.rebelcallouts.rebelinstructions": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelinstructions"
+    ]
+  },
+  "galwars.rebelcallouts.rebelobjective": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelobjective"
+    ]
+  },
+  "galwars.rebelcallouts.rebelpointataken": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelpointataken"
+    ]
+  },
+  "galwars.rebelcallouts.rebelpointbtaken": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelpointbtaken"
+    ]
+  },
+  "galwars.rebelcallouts.rebelpointctaken": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelpointctaken"
+    ]
+  },
+  "galwars.rebelcallouts.rebelsixtyseconds": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelsixtyseconds"
+    ]
+  },
+  "galwars.rebelcallouts.rebelthirtyseconds": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelthirtyseconds"
+    ]
+  },
+  "galwars.rebelcallouts.rebelwinmusic": {
+    "category": "master",
+    "sounds": [
+      "galwars/rebelcallouts/rebelwinmusic"
+    ]
+  },
+  "sounds.mob.zombie.death": {
+    "category": "master",
+    "sounds": [
+      "sounds/mob/zombie/death"
+    ]
+  },
+  "sounds.mob.zombie.hurt": {
+    "category": "master",
+    "sounds": [
+      "sounds/mob/zombie/hurt1",
+      "sounds/mob/zombie/hurt2"
+    ]
+  },
+  "sounds.mob.zombie.say": {
+    "category": "master",
+    "sounds": [
+      "sounds/mob/zombie/say1",
+      "sounds/mob/zombie/say2",
+      "sounds/mob/zombie/say3"
+    ]
+  }
+}

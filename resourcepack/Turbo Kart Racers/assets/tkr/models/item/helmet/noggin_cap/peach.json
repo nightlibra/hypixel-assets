@@ -1,0 +1,9 @@
+{
+  "parent": "tkr:item/helmet/noggin_cap",
+  "textures": {
+    "texture": "tkr:item/helmet/noggin_cap/peach_1",
+    "texture2": "tkr:item/helmet/noggin_cap/peach_2",
+    "texture3": "tkr:item/helmet/noggin_cap/peach_3",
+    "texture4": "tkr:item/helmet/noggin_cap/peach_4"
+  }
+}

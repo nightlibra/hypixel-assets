@@ -1,0 +1,9 @@
+{
+  "parent": "tkr:item/helmet/classico",
+  "textures": {
+    "texture": "tkr:item/helmet/classico/ender_1",
+    "texture2": "tkr:item/helmet/classico/ender_2",
+    "texture3": "tkr:item/helmet/classico/ender_3",
+    "texture4": "tkr:item/helmet/classico/ender_4"
+  }
+}

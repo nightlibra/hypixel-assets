@@ -1,0 +1,139 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": {"extra": [{"text": "Commando", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/commando"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Commando", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/commando"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Denko Dasher", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/denko_dasher"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Denko Dasher", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/denko_dasher"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Flurry Flier", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/flurry_flier"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Flurry Flier", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/flurry_flier"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Joyful Beamer", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/joyful_beamer"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Joyful Beamer", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/joyful_beamer"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Sapphire", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/sapphire"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Sapphire", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/sapphire"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Scarlet Drifter", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/scarlet_drifter"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Scarlet Drifter", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/scarlet_drifter"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Spirit Rider", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/spirit_rider"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Spirit Rider", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/spirit_rider"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "The 'Stache", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/the_stache"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "The 'Stache", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/the_stache"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Tranquility", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/tranquility"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Tranquility", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/hypesweggen/tranquility"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/blue_wool"
+		}
+	}
+}

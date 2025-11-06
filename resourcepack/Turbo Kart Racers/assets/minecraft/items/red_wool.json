@@ -1,0 +1,125 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": {"extra": [{"text": "Blue Eagle", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/blue_eagle"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Blue Eagle", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/blue_eagle"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Dante", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/dante"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Dante", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/dante"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Eclipse", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/eclipse"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Eclipse", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/eclipse"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Ender Runner", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/ender_runner"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Ender Runner", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/ender_runner"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Ocean Breezer", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/ocean_breezer"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Ocean Breezer", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/ocean_breezer"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Phantom", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/phantom"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Phantom", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/phantom"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Pumpkin McScream", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/pumpkin_mcscream"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Pumpkin McScream", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/pumpkin_mcscream"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Thunder MacKing", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/thunder_macking"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Thunder MacKing", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/blueshell_inc/thunder_macking"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/red_wool"
+		}
+	}
+}

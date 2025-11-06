@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "game_version": "1.13",
+    "pack_resolution": "32x",
+    "pack_type": 1,
+    "pack_version": "1.0",
+    "consists": "3D Pack for the Galaxy Wars Gamemode on Hypixel"
+  },
+  "pack": {
+    "description": "Galaxy Wars\n©2018 Hypixel, Inc.",
+    "pack_format": 4
+  }
+}

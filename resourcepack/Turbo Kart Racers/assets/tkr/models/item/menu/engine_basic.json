@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/template_menu",
+  "textures": {
+    "texture": "tkr:item/menu/engine_basic"
+  }
+}

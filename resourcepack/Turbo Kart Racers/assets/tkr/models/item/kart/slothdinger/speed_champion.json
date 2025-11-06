@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/kart/slothdinger",
+  "textures": {
+    "texture": "tkr:item/kart/slothdinger/speed_champion"
+  }
+}

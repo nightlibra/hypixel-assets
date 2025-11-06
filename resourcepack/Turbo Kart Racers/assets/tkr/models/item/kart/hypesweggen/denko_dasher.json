@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/kart/hypesweggen",
+  "textures": {
+    "texture": "tkr:item/kart/hypesweggen/denko_dasher"
+  }
+}

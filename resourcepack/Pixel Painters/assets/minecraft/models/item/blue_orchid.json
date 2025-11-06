@@ -1,0 +1,114 @@
+{
+  "textures": {
+    "texture": "item/pixelpainterssmall"
+  },
+  "elements": [
+    {
+      "__comment": "pixelpainterssmall_x64",
+      "from": [
+        -16,
+        -12.75,
+        6.5
+      ],
+      "to": [
+        32,
+        18,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            12.25,
+            16,
+            12
+          ],
+          "rotation": 180,
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            16,
+            2,
+            0,
+            2.25
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            2,
+            16,
+            12.25
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            12.25,
+            16,
+            2
+          ],
+          "rotation": 180,
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            16,
+            2,
+            15.75,
+            12.25
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            2,
+            0.25,
+            12.25
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0.38,
+        0
+      ],
+      "scale": [
+        2.2,
+        2.2,
+        2.2
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1.32,
+        0
+      ],
+      "scale": [
+        -0.3,
+        0.3,
+        0.3
+      ]
+    }
+  }
+}

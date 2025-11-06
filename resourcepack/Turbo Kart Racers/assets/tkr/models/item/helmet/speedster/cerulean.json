@@ -1,0 +1,7 @@
+{
+  "parent": "tkr:item/helmet/speedster",
+  "textures": {
+    "texture": "tkr:item/helmet/speedster/cerulean_1",
+    "texture2": "tkr:item/helmet/speedster/cerulean_2"
+  }
+}

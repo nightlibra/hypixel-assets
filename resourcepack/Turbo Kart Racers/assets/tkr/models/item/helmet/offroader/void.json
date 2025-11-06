@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/helmet/offroader",
+  "textures": {
+    "texture": "tkr:item/helmet/offroader/void"
+  }
+}

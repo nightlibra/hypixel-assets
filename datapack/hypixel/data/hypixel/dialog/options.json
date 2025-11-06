@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:dialog_list",
+  "title": "Quick Actions",
+  "exit_action": {
+    "label": "Exit"
+  },
+  "columns": 1,
+  "dialogs": [
+    "hypixel:warp",
+    "hypixel:links"
+  ]
+}

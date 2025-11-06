@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/template_item",
+  "textures": {
+    "texture": "tkr:item/nitro_red"
+  }
+}

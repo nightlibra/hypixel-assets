@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/template_billboard",
+  "textures": {
+    "texture": "tkr:item/billboard/cubik"
+  }
+}

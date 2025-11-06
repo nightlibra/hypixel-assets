@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tkr:blueshell_inc"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tkr:blueshell_inc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "tkr:item/helmet/classico",
+  "textures": {
+    "texture": "tkr:item/helmet/classico/noob_shield_1",
+    "texture2": "tkr:item/helmet/classico/noob_shield_2",
+    "texture3": "tkr:item/helmet/classico/noob_shield_3",
+    "texture4": "tkr:item/helmet/classico/noob_shield_4"
+  }
+}

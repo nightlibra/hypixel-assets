@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Main Lobby",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Main Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby run tp @s 0 64 0"
+      }
+    }
+  ]
+}

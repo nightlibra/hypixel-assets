@@ -1,0 +1,378 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_quartz_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:quartz"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_iron_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:iron"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_netherite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:netherite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_redstone_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:redstone"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_copper_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:copper"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_gold_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:gold"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_emerald_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:emerald"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_diamond_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:diamond"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_lapis_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:lapis"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_amethyst_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:amethyst"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/leather_helmet_resin_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "minecraft:resin"
+      }
+    ],
+    "property": "minecraft:trim_material",
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:dyed_color",
+      "cases": [
+        {
+        "when": 13717841,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/headline/race_red"
+          }
+        },
+        {
+        "when": 16050241, "__IDENTICAL": "amethyst",
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/headline/sunset"
+          }
+        },
+        {
+        "when": 4301044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/headline/ocean"
+          }
+        },
+        {
+        "when": 160502410, "__IDENTICAL": "sunset",
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/classico/amethyst"
+          }
+        },
+        {
+        "when": 16007489, "__IDENTICAL": "emerald",
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/classico/ruby"
+          }
+        },
+        {
+        "when": 160074890, "__IDENTICAL": "ruby",
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/classico/emerald"
+          }
+        },
+        {
+        "when": 16044097,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/noggin_cap/banana"
+          }
+        },
+        {
+        "when": 16007557,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/noggin_cap/peach"
+          }
+        },
+        {
+        "when": 8385601,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/noggin_cap/apple"
+          }
+        },
+        {
+        "when": 4322500,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/bonnet/diamond"
+          }
+        },
+        {
+        "when": 9838881,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/bonnet/redstone"
+          }
+        },
+        {
+        "when": 1581840,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/bonnet/obsidian"
+          }
+        },
+        {
+        "when": 10264709,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/warrior/bone"
+          }
+        },
+        {
+        "when": 9282406,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/warrior/lizard"
+          }
+        },
+        {
+        "when": 15724522,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/warrior/ghost"
+          }
+        },
+        {
+        "when": 2578716,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/mantis/green"
+          }
+        },
+        {
+        "when": 7699572,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/mantis/white"
+          }
+        },
+        {
+        "when": 9131432,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/mantis/purple"
+          }
+        },
+        {
+        "when": 4768865,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/casque/lime"
+          }
+        },
+        {
+        "when": 13542239,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/casque/orange"
+          }
+        },
+        {
+        "when": 5887689,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/casque/blueberry"
+          }
+        },
+        {
+        "when": 2040611,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/offroader/void"
+          }
+        },
+        {
+        "when": 2840873,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/offroader/fields"
+          }
+        },
+        {
+        "when": 7185816,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/offroader/river"
+          }
+        },
+        {
+        "when": 8670826,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/speedster/orchid"
+          }
+        },
+        {
+        "when": 10061880,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/speedster/tangerine"
+          }
+        },
+        {
+        "when": 47019,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/speedster/cerulean"
+          }
+        },
+        {
+        "when": 3316044,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/futurehelm/bubblegum"
+          }
+        },
+        {
+        "when": 9845549,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/futurehelm/gobstopper"
+          }
+        },
+        {
+        "when": 16720128,
+        "model": {
+          "type": "minecraft:model",
+          "model": "tkr:item/helmet/futurehelm/bonbon"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/leather_helmet",
+        "tints": [
+          {
+            "type": "minecraft:dye",
+            "default": -6265536
+          }
+        ]
+      }
+    }
+  }
+}

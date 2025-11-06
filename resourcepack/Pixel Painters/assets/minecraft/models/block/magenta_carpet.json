@@ -1,0 +1,206 @@
+{
+  "__comment": "designed_by_hypixel_minecraft_server_with_bdcraft_cubik_pro_0.90_beta_-_http://bdcraft.net",
+  "textures": {
+    "particle": "item/frame1",
+    "texture": "item/frame1"
+  },
+  "elements": [
+    {
+      "from": [
+        -16,
+        -16,
+        5
+      ],
+      "to": [
+        32,
+        32,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            15.5,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "from": [
+        -11.5,
+        -11.5,
+        3.5
+      ],
+      "to": [
+        27.5,
+        27.5,
+        5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            14,
+            14.5,
+            14.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            1.5,
+            14.5,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            14.5,
+            1.5,
+            1.5,
+            14.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            1.5,
+            2,
+            14.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            14,
+            1.5,
+            14.5,
+            14.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        89,
+        -9
+      ],
+      "translation": [
+        -0.38,
+        3.59,
+        -0.94
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        5,
+        5,
+        5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -85,
+        26
+      ],
+      "translation": [
+        0,
+        3.97,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.335,
+        0.335,
+        0.335
+      ]
+    }
+  }
+}

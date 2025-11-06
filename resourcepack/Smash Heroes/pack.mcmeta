@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 55,
+    "supported_formats": [55, 69],
+    "min_format": 55,
+    "max_format": 69,
+    "description": "Smash Heroes\n©2018 Hypixel, Inc."
+  },
+  "meta": {
+    "game_version": "1.21.5 - 1.21.10",
+    "pack_resolution": "64x",
+    "pack_type": 1,
+    "pack_version": "2.0",
+    "consists": "SMASH!"
+  }
+}

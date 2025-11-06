@@ -1,0 +1,336 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Smash Heroes",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp"
+    }
+  },
+  "columns": 2,
+  "actions": [
+    {
+      "label": "Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/lobby run tp @s 806 37 64 -90 0"
+      }
+    },
+    {
+      "label": "Map: Agora",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/agora run tp @s 0.5 105 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Apex",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/apex run tp @s 0.5 84 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Arcade",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/arcade run tp @s 0.5 84 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Athens",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/athens run tp @s 0.5 98 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Atlantis",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/atlantis run tp @s 0.5 84 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Bastion",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/bastion run tp @s -0.5 75 1.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Bawk",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/bawk run tp @s 64.5 86 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Blossom",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/blossom run tp @s 0.5 61 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Circled",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/circled run tp @s 0.5 103 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Cobalt",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/cobalt run tp @s 64.5 68 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Cogsworth",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/cogsworth run tp @s 64.5 105 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Color Clash",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/color_clash run tp @s 64.5 68 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Cosmos",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/cosmos run tp @s 64.5 88 -62.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Courtyard",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/courtyard run tp @s 0.5 93 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Cubed",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "w @s Cubed is missing! :("
+      }
+    },
+    {
+      "label": "Map: Darkside",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/darkside run tp @s 0.5 84 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Deep Blue",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/deep_blue run tp @s 0.5 88 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Dojo",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/dojo run tp @s 64.5 74 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Dojo v2",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/dojo_2 run tp @s 64.5 68 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Equinox",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/equinox run tp @s 64.5 77 -62.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Gateway",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/gateway run tp @s 0.5 101 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Grave",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/grave run tp @s 0.5 89 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Grove",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/grove run tp @s -64.5 78 -64.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Gunmetal",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/gunmetal run tp @s 66.5 82 -62.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Harmony",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/harmony run tp @s 0.5 73 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Laboratory",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "w @s Cubed is missing! :("
+      }
+    },
+    {
+      "label": "Map: Luxor",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/luxor run tp @s 65.5 46 -64.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Marshland",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/marshland run tp @s 0.5 72 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Marshland v2",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/marshland_2 run tp @s 0.5 75 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Marshland (Christmas)",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/marshland_christmas run tp @s 0.5 72 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Mosaic",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/mosaic run tp @s 65.5 55 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Quareen",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/quareen run tp @s 0.5 84 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Reconcile",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/reconcile run tp @s 0.5 101 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Remains",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/remains run tp @s 0.5 95 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Shard",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/shard run tp @s 64.5 71 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Skyline",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "w @s Cubed is missing! :("
+      }
+    },
+    {
+      "label": "Map: Skyline v2",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/skyline_2 run tp @s 0.5 108 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Solaris Templum",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/solaris_templum run tp @s -0.5 80 1.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Sparta",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/sparta run tp @s 0.5 78 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Strawberry Towers",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/strawberry_towers run tp @s 64.5 80 -63.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Sub-zero",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/sub-zero run tp @s 0.5 84 0.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Swift",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/swift run tp @s 62.5 88 -61.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Toybox",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/toybox run tp @s 64.5 98 -62.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Triplets",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/triplets run tp @s 66.5 84 -66.5 0 0"
+      }
+    },
+    {
+      "label": "Map: Western",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:smash/map/western run tp @s 0.5 98 0.5 0 0"
+      }
+    }
+  ]
+}

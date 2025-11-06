@@ -1,0 +1,74 @@
+{
+  "soccer.crowdloop": {
+    "category": "master",
+    "sounds": [
+      "crowdloop"
+    ]
+  },
+  "soccer.scorewhistle": {
+    "category": "master",
+    "sounds": [
+      "scorewhistle"
+    ]
+  },
+  "soccer.kick1": {
+    "category": "master",
+    "sounds": [
+      "kick1"
+    ]
+  },
+  "soccer.kick2": {
+    "category": "master",
+    "sounds": [
+      "kick2"
+    ]
+  },
+  "soccer.kick3": {
+    "category": "master",
+    "sounds": [
+      "kick3"
+    ]
+  },
+  "soccer.header": {
+    "category": "master",
+    "sounds": [
+      "header"
+    ]
+  },
+  "soccer.finalwhistle": {
+    "category": "master",
+    "sounds": [
+      "finalwhistle"
+    ]
+  },
+  "soccer.crowdscoreroar": {
+    "category": "master",
+    "sounds": [
+      "crowdscoreroar"
+    ]
+  },
+  "soccer.crowdfadein": {
+    "category": "master",
+    "sounds": [
+      "crowdfadein"
+    ]
+  },
+  "soccer.crowdfadeout": {
+    "category": "master",
+    "sounds": [
+      "crowdfadeout"
+    ]
+  },
+  "soccer.bluescores": {
+    "category": "master",
+    "sounds": [
+      "bluescores"
+    ]
+  },
+  "soccer.bigkick": {
+    "category": "master",
+    "sounds": [
+      "bigkick"
+    ]
+  }
+}

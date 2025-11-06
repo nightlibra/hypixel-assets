@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/helmet/headline",
+  "textures": {
+    "texture": "tkr:item/helmet/headline/shadow_aura"
+  }
+}

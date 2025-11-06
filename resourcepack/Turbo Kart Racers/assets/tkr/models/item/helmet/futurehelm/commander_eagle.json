@@ -1,0 +1,9 @@
+{
+  "parent": "tkr:item/helmet/futurehelm_2",
+  "textures": {
+    "texture": "tkr:item/helmet/futurehelm/commander_eagle_1",
+    "texture2": "tkr:item/helmet/futurehelm/commander_eagle_2",
+    "texture3": "tkr:item/helmet/futurehelm/commander_eagle_3",
+    "texture4": "tkr:item/helmet/futurehelm/commander_eagle_4"
+  }
+}

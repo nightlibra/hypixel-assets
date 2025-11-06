@@ -1,0 +1,28 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:display_context",
+		"cases": [
+			{
+				"when": "gui",
+				"model": {
+					"type": "minecraft:condition",
+					"property": "minecraft:has_component",
+					"component": "minecraft:custom_name",
+					"on_true": {
+						"type": "minecraft:model",
+						"model": "minecraft:block/crafting_table"
+					},
+					"on_false": {
+						"type": "minecraft:model",
+						"model": "tkr:item/kart/turbobrine/junker"
+					}
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "tkr:item/kart/turbobrine/junker"
+		}
+	}
+}

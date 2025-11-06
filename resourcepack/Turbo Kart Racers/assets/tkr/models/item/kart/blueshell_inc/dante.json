@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/kart/blueshell_inc",
+  "textures": {
+    "texture": "tkr:item/kart/blueshell_inc/dante"
+  }
+}

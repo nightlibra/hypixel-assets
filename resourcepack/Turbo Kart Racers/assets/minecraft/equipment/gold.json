@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "tkr:slothdinger"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tkr:slothdinger"
+      }
+    ]
+  }
+}

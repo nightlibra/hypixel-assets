@@ -1,0 +1,125 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": {"extra": [{"text": "Corrosive Stallion", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/corrosive_stallion"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Corrosive Stallion", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/corrosive_stallion"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Diablo", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/diablo"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Diablo", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/diablo"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Frostbit", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/frostbit"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Frostbit", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/frostbit"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Hot Rod", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/hot_rod"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Hot Rod", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/hot_rod"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Impact Maniac", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/impact_maniac"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Impact Maniac", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/impact_maniac"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Junker", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/junker"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Junker", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/junker"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Night Fire", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/night_fire"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Night Fire", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/night_fire"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Vortex Driver", "color": "green"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/vortex_driver"
+				}
+			},
+			{
+				"when": {"extra": [{"text": "Vortex Driver", "color": "red"}], "italic":false, "text":""},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tkr:item/kart/turbobrine/vortex_driver"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/yellow_wool"
+		}
+	}
+}

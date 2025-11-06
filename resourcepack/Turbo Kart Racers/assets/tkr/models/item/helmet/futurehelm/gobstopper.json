@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/helmet/futurehelm",
+  "textures": {
+    "texture": "tkr:item/helmet/futurehelm/gobstopper"
+  }
+}

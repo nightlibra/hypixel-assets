@@ -1,0 +1,177 @@
+{
+    "announcer.welcome": {
+    	"subtitle": "subtitles.tkr.announcer.welcome",
+        "sounds":
+        [
+            "announcer/welcome"
+        ]
+    },
+    "announcer.basic": {
+    	"subtitle": "subtitles.tkr.announcer.basic",
+        "sounds":
+        [
+            "announcer/basic"
+        ]
+    },
+    "announcer.super": {
+    	"subtitle": "subtitles.tkr.announcer.super",
+        "sounds":
+        [
+            "announcer/super"
+        ]
+    },
+    "announcer.awesome": {
+    	"subtitle": "subtitles.tkr.announcer.awesome",
+        "sounds":
+        [
+            "announcer/awesome"
+        ]
+    },
+    "announcer.ready": {
+    	"subtitle": "subtitles.tkr.announcer.ready",
+        "sounds":
+        [
+            "announcer/ready"
+        ]
+    },
+    "announcer.set": {
+    	"subtitle": "subtitles.tkr.announcer.set",
+        "sounds":
+        [
+            "announcer/set"
+        ]
+    },
+    "announcer.go": {
+    	"subtitle": "subtitles.tkr.announcer.go",
+        "sounds":
+        [
+            "announcer/go"
+        ]
+    },
+    "announcer.lap.one": {
+    	"subtitle": "subtitles.tkr.announcer.lap_one",
+        "sounds":
+        [
+            "announcer/lap_one"
+        ]
+    },
+    "announcer.lap.two": {
+    	"subtitle": "subtitles.tkr.announcer.lap_two",
+        "sounds":
+        [
+            "announcer/lap_two"
+        ]
+    },
+    "announcer.lap.three": {
+    	"subtitle": "subtitles.tkr.announcer.lap_three",
+        "sounds":
+        [
+            "announcer/lap_three"
+        ]
+    },
+    "announcer.lap.final": {
+    	"subtitle": "subtitles.tkr.announcer.lap_final",
+        "sounds":
+        [
+            "announcer/lap_final"
+        ]
+    },
+    "announcer.takenthelead": {
+    	"subtitle": "subtitles.tkr.announcer.taken_the_lead",
+        "sounds":
+        [
+            "announcer/taken_the_lead"
+        ]
+    },
+    "announcer.thirtysecondsleft": {
+    	"subtitle": "subtitles.tkr.announcer.thirty_seconds_left",
+        "sounds":
+        [
+            "announcer/thirty_seconds_left"
+        ]
+    },
+    "announcer.tensecondsleft": {
+    	"subtitle": "subtitles.tkr.announcer.ten_seconds_left",
+        "sounds":
+        [
+            "announcer/ten_seconds_left"
+        ]
+    },
+    "horns.horn.a": {
+    	"subtitle": "subtitles.tkr.horns.shy",
+        "sounds":
+        [
+            "horns/shy"
+        ]
+    },
+    "horns.horn.b": {
+    	"subtitle": "subtitles.tkr.horns.alien",
+        "sounds":
+        [
+            "horns/alien"
+        ]
+    },
+    "horns.horn.c": {
+    	"subtitle": "subtitles.tkr.horns.busy_taxi",
+        "sounds":
+        [
+            "horns/busy_taxi"
+        ]
+    },
+    "horns.horn.d": {
+    	"subtitle": "subtitles.tkr.horns.default",
+        "sounds":
+        [
+            "horns/default"
+        ]
+    },
+    "horns.horn.e": {
+    	"subtitle": "subtitles.tkr.horns.klaxon",
+        "sounds":
+        [
+            "horns/klaxon"
+        ]
+    },
+    "horns.horn.f": {
+    	"subtitle": "subtitles.tkr.horns.tricycle",
+        "sounds":
+        [
+            "horns/tricycle"
+        ]
+    },
+    "horns.horn.g": {
+    	"subtitle": "subtitles.tkr.horns.road_driver",
+        "sounds":
+        [
+            "horns/road_driver"
+        ]
+    },
+    "horns.horn.h": {
+    	"subtitle": "subtitles.tkr.horns.alarm",
+        "sounds":
+        [
+            "horns/alarm"
+        ]
+    },
+    "horns.horn.i": {
+    	"subtitle": "subtitles.tkr.horns.kloon",
+        "sounds":
+        [
+            "horns/kloon"
+        ]
+    },
+    "horns.horn.j": {
+    	"subtitle": "subtitles.tkr.horns.teddy_bear",
+        "sounds":
+        [
+            "horns/teddy_bear"
+        ]
+    },
+    "horns.horn.k": {
+    	"subtitle": "subtitles.tkr.horns.truck",
+        "sounds":
+        [
+            "horns/truck"
+        ]
+    }
+}

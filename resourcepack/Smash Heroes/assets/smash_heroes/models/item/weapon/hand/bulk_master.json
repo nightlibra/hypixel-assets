@@ -1,0 +1,6 @@
+{
+  "parent": "smash_heroes:item/template_hand_claw",
+  "textures": {
+    "texture": "smash_heroes:item/weapon/hand/bulk_master"
+  }
+}

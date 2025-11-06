@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/kart/turbobrine",
+  "textures": {
+    "texture": "tkr:item/kart/turbobrine/frostbit"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:dialog_list",
+  "title": "Warp Menu",
+  "exit_action": {
+    "label": "Exit"
+  },
+  "columns": 1,
+  "dialogs": [
+    "hypixel:warp/lobby",
+    "hypixel:warp/game/tkr",
+    "hypixel:warp/game/smash"
+  ]
+}

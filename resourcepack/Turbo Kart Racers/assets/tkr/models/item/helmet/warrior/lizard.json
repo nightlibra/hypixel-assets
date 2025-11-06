@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/helmet/warrior",
+  "textures": {
+    "texture": "tkr:item/helmet/warrior/lizard"
+  }
+}

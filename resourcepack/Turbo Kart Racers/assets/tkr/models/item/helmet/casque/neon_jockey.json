@@ -1,0 +1,10 @@
+{
+  "parent": "tkr:item/helmet/casque",
+  "textures": {
+    "texture": "tkr:item/helmet/casque/neon_jockey_1",
+    "texture2_west": "tkr:item/helmet/casque/neon_jockey_2w",
+    "texture2_east": "tkr:item/helmet/casque/neon_jockey_2e",
+    "texture3": "tkr:item/helmet/casque/neon_jockey_3",
+    "texture4": "tkr:item/helmet/casque/neon_jockey_4"
+  }
+}

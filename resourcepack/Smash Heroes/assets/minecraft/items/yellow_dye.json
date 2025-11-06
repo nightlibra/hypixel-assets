@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "smash_heroes:item/menu/exp_booster_active"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "tkr:turbobrine"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tkr:turbobrine"
+      }
+    ]
+  }
+}

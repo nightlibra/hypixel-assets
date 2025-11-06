@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "game_version": "1.13",
+    "pack_resolution": "32x",
+    "pack_type": 1,
+    "pack_version": "1.0",
+    "consists": "Sounds and Textures."
+  },
+  "pack": {
+    "description": "Blocking Dead\n©2018 Hypixel, Inc.",
+    "pack_format": 4
+  }
+}

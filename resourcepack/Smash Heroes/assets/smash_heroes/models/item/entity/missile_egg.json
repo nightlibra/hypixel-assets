@@ -1,0 +1,6 @@
+{
+  "parent": "tkr:item/template_missile",
+  "textures": {
+    "texture": "tkr:item/missile_egg"
+  }
+}

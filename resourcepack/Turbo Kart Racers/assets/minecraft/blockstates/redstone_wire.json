@@ -1,0 +1,38 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "tkr:block/road_line_1"
+      },
+      "when": {
+        "north": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "tkr:block/road_line_2"
+      },
+      "when": {
+        "south": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "tkr:block/road_line_2",
+        "y": 270
+      },
+      "when": {
+        "east": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "tkr:block/road_line_1",
+        "y": 270
+      },
+      "when": {
+        "west": "side|up"
+      }
+    }
+  ]
+}
