@@ -2,13 +2,7 @@
   "type": "minecraft:multi_action",
   "title": "Links",
   "exit_action": {
-    "label": {
-      "translate": "gui.back"
-    },
-    "action": {
-      "type": "minecraft:show_dialog",
-      "dialog": "hypixel:options"
-    }
+    "label": "Exit"
   },
   "columns": 1,
   "actions": [
@@ -27,7 +21,7 @@
       }
     },
     {
-      "label": "Project Github",
+      "label": "Project GitHub",
       "action": {
         "type": "minecraft:open_url",
         "url": "https://github.com/nightlibra/hypixel-assets"
