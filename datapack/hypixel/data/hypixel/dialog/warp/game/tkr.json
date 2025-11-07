@@ -11,10 +11,17 @@
   "columns": 2,
   "actions": [
     {
-      "label": "Lobby",
+      "label": "Lobby (2015)",
       "action": {
         "type": "minecraft:run_command",
         "command": "/execute in hypixel:tkr/lobby run tp @s -130 34 21 -90 0"
+      }
+    },
+    {
+      "label": "Classic Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/classic/2018 run tp @s -20.5 87 17.5 0 0"
       }
     },
     {

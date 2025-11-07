@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Main Lobby v5 (2017)",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby/main"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Default Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/base run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Halloween 2017",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/halloween/2017 run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Christmas 2017",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/christmas/2017 run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Lunar New Year 2018",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/lunar_new_year/2018 run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Easter 2019",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/easter/2019 run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Summer 2019",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/summer/2019 run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Halloween 2019",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/halloween/2019 run tp @s 44.5 86 22.5 90 0"
+      }
+    },
+    {
+      "label": "Christmas 2019",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v5/christmas/2019 run tp @s 44.5 86 22.5 90 0"
+      }
+    }
+  ]
+}

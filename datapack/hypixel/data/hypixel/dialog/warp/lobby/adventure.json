@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Adventure Lobby",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Adventure Lobby (2013)",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/adventure/2013 run tp @s -2476.5 66.5 718.5 -90 0"
+      }
+    },
+    {
+      "label": "Adventure Lobby (2015)",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/adventure/2015 run tp @s 20.5 59 -98.5 90 0"
+      }
+    }
+  ]
+}

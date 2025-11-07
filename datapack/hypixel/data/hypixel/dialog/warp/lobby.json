@@ -1,6 +1,6 @@
 {
   "type": "minecraft:multi_action",
-  "title": "Main Lobby",
+  "title": "Lobbies",
   "exit_action": {
     "label": {"translate":"gui.back"},
     "action": {
@@ -11,10 +11,45 @@
   "columns": 1,
   "actions": [
     {
-      "label": "Main Lobby",
+      "label": "Main Lobbies",
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "hypixel:warp/lobby/main"
+      }
+    },
+    {
+      "label": "Adventure Lobbies",
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "hypixel:warp/lobby/adventure"
+      }
+    },
+    {
+      "label": "Classic Lobbies",
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "hypixel:warp/lobby/classic"
+      }
+    },
+    {
+      "label": "Prototype Lobbies",
+      "action": {
+        "type": "minecraft:show_dialog",
+        "dialog": "hypixel:warp/lobby/ptl"
+      }
+    },
+    {
+      "label": "Tournament Hall",
       "action": {
         "type": "minecraft:run_command",
-        "command": "/execute in hypixel:lobby run tp @s 0 64 0"
+        "command": "/execute in hypixel:lobby/tournament/2018 run tp @s 0.5 41 47.5 0 0"
+      }
+    },
+    {
+      "label": "Limbo",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/limbo/v2 run tp @s -23.5 31 21.5 -90 0"
       }
     }
   ]

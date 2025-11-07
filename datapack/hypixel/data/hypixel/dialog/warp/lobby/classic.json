@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Classic Lobby",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Classic Lobby (2017)",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/classic/2017 run tp @s -2440.5 51 705.5 0 0"
+      }
+    },
+    {
+      "label": "Classic Lobby (2018)",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/classic/2018 run tp @s 0.5 84 -23.5 0 0"
+      }
+    }
+  ]
+}

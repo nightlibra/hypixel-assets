@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Main Lobby v3 (2014)",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby/main"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Default Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v3/base run tp @s -2524.5 50 847.5 -180 0"
+      }
+    }
+  ]
+}

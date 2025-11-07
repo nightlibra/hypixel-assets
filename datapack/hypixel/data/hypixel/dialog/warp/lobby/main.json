@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:dialog_list",
+  "title": "Main Lobbies",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby"
+    }
+  },
+  "columns": 1,
+  "dialogs": [
+    "hypixel:warp/lobby/main/v1",
+    "hypixel:warp/lobby/main/v2",
+    "hypixel:warp/lobby/main/v3",
+    "hypixel:warp/lobby/main/v4",
+    "hypixel:warp/lobby/main/v5",
+    "hypixel:warp/lobby/main/v6"
+  ]
+}

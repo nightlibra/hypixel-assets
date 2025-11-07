@@ -26,6 +26,20 @@
         "type": "minecraft:open_url",
         "url": "https://github.com/nightlibra/hypixel-assets"
       }
+    },
+    {
+      "label": "Hypixel Map Archive",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://mega.nz/folder/zigm2SIb#tYUOFzpdng-PBsOx5cr85Q"
+      }
+    },
+    {
+      "label": "Archive Discord",
+      "action": {
+        "type": "minecraft:open_url",
+        "url": "https://discord.gg/D9b6nV8vJh"
+      }
     }
   ]
 }

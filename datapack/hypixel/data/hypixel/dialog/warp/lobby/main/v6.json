@@ -1,0 +1,161 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Main Lobby v6 (2022)",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby/main"
+    }
+  },
+  "columns": 3,
+  "actions": [
+    {
+      "label": "Default Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/base run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Easter 2022",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/easter/2022 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Summer 2022",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/summer/2022 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Autumn 2022",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/autumn/2022 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Halloween 2022",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/halloween/2022 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Winter 2022",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/winter/2022 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Christmas 2022",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/christmas/2022 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Spring 2023",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/spring/2023 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "10th Anniversary",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/anniversary/2023 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Summer 2023",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/summer/2023 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Winter 2023",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/winter/2023 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Spring 2024",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/spring/2024 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Easter 2024",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/easter/2024 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Summer 2024",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/summer/2024 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Halloween 2024",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/halloween/2024 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Christmas 2024",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/christmas/2024 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Spring 2025",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/spring/2025 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Easter 2025",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/easter/2025 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Summer 2025",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/summer/2025 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Autumn 2025",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/autumn/2025 run tp @s -52.5 96 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Halloween 2025",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v6/halloween/2025 run tp @s -52.5 96 0.5 -90 0"
+      }
+    }
+  ]
+}

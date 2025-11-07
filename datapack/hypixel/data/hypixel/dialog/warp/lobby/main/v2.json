@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Main Lobby v2 (2013)",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby/main"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Default Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v2/base run tp @s -2452.5 25 743.5 -180 0"
+      }
+    },
+    {
+      "label": "VIP Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v1/vip run tp @s -815.5 36.5 -156.5 -180 0"
+      }
+    },
+    {
+      "label": "Limbo",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/limbo/v1 run tp @s 836.5 40 -1455.5 90 0"
+      }
+    }
+  ]
+}

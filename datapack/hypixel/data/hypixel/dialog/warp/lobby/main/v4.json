@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Main Lobby v4 (2015)",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby/main"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Default Lobby",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v4/base run tp @s 189.5 64.5 5.5 90 0"
+      }
+    },
+    {
+      "label": "Halloween 2015",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v4/halloween/2015 run tp @s 189.5 64.5 5.5 90 0"
+      }
+    },
+    {
+      "label": "Christmas 2015",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/main/v4/christmas/2015 run tp @s 189.5 64.5 5.5 90 0"
+      }
+    }
+  ]
+}

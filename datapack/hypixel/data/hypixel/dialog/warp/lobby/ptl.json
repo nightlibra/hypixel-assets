@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Prototype Lobbies",
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:warp/lobby"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Alpha Hypixel Network",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/alpha/2022 run tp @s -11.5 76 0.5 -90 0"
+      }
+    },
+    {
+      "label": "Prototype Lobby (2018)",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in hypixel:lobby/prototype/2017 run tp @s -152.5 69 148.5 90 0"
+      }
+    }
+  ]
+}
