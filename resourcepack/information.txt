@@ -11,5 +11,5 @@ They may be broken in the latest versions, including the one they were downloade
 
 The following resource packs are modified to be compatible with the latest Minecraft versions
 
-- Smash Heroes | 1.21.5+ | pending
+- Smash Heroes | 1.21.5+ | https://hypixel.net/threads/6010955/
 - Turbo Kart Racers | 1.21.5+ | https://hypixel.net/threads/6003095/
