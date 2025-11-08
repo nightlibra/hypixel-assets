@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/frying_pan"
+    "model": "smash:item/weapon/frying_pan"
   }
 }

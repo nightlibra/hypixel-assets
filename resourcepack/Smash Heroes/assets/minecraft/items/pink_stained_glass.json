@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/effect/effect_4"
+    "model": "smash:item/entity/effect/effect_4"
   }
 }

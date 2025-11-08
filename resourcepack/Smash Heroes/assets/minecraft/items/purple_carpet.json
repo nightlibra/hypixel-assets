@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/pug_angry"
+    "model": "smash:item/head/pug_angry"
   }
 }

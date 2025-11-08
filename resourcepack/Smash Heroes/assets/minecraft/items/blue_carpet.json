@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/cake_monster"
+    "model": "smash:item/head/cake_monster"
   }
 }

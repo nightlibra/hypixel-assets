@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/pug_master"
+    "model": "smash:item/head/pug_master"
   }
 }

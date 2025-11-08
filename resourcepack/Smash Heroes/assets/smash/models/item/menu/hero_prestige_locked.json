@@ -1,0 +1,6 @@
+{
+  "parent": "smash:item/template_menu",
+  "textures": {
+    "texture": "smash:item/menu/hero_prestige_locked"
+  }
+}

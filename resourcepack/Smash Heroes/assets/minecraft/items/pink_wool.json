@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/effect/lightning_cone"
+    "model": "smash:item/entity/effect/lightning_cone"
   }
 }

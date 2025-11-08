@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/sheep"
+    "model": "smash:item/head/sheep"
   }
 }

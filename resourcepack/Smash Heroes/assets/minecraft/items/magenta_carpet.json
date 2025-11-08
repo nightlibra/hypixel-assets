@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/general_cluck"
+    "model": "smash:item/head/general_cluck"
   }
 }

@@ -1,6 +1,0 @@
-{
-  "parent": "smash_heroes:item/entity/smash_crystal",
-  "textures": {
-    "texture": "smash_heroes:item/entity/smash_crystal_pending"
-  }
-}

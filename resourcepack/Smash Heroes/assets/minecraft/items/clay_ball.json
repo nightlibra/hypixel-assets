@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/shield"
+    "model": "smash:item/weapon/shield"
   }
 }

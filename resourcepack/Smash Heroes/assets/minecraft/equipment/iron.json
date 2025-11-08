@@ -7,12 +7,12 @@
     ],
     "humanoid": [
       {
-        "texture": "smash_heroes:iron"
+        "texture": "smash:iron"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "smash_heroes:iron"
+        "texture": "smash:iron"
       }
     ]
   }

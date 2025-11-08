@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "smash_heroes:chainmail"
+        "texture": "smash:chainmail"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "smash_heroes:chainmail"
+        "texture": "smash:chainmail"
       }
     ]
   }

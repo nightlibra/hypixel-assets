@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/jestress"
+    "model": "smash:item/head/jestress"
   }
 }

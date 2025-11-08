@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/botmon_master"
+    "model": "smash:item/head/botmon_master"
   }
 }

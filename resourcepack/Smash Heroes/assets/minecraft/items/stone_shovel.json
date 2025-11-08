@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/hand/bulk"
+    "model": "smash:item/weapon/hand/bulk"
   }
 }

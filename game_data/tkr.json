@@ -1,0 +1,679 @@
+{
+    "karts": {
+    	"sapphire": {
+    		"name": "Sapphire",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:enchanting_table",
+    	},
+    	"tranquility": {
+    		"name": "Tranquility",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:dropper",
+    	},
+    	"commando": {
+    		"name": "Commander",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:mycelium",
+    	},
+    	"joyful_beamer": {
+    		"name": "Joyful Beamer",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:detector_rail",
+    	},
+    	"denko_dasher": {
+    		"name": "Denko Dasher",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:cobweb",
+    	},
+    	"the_stache": {
+    		"name": "The 'Stache",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:sponge",
+    	},
+    	"spirit_rider": {
+    		"name": "Spirit Rider",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:piston",
+    	},
+    	"flurry_flier": {
+    		"name": "Flurry Flier",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:sticky_piston",
+    	},
+    	"scarlet_drifter": {
+    		"name": "Scarlet Drifter",
+    		"brand": "Hypesweggen",
+    		"block": "minecraft:birch_fence",
+    	},
+    	"phantom": {
+    		"name": "Phantom",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:dispenser",
+    	},
+    	"eclipse": {
+    		"name": "Eclipse",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:rail",
+    	},
+    	"dante": {
+    		"name": "Dante",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:damaged_anvil",
+    	},
+    	"blue_eagle": {
+    		"name": "Blue Eagle",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:nether_brick_fence",
+    	},
+    	"ocean_breezer": {
+    		"name": "Ocean Breezer",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:nether_quartz_ore",
+    	},
+    	"thunder_macking": {
+    		"name": "Thunder MacKing",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:light_gray_wool",
+    	},
+    	"ender_runner": {
+    		"name": "Ender Runner",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:smooth_stone_slab",
+    	},
+    	"pumpkin_mcscream": {
+    		"name": "Pumpkin McScream",
+    		"brand": "Blueshell Inc.",
+    		"block": "minecraft:lapis_ore",
+    	},
+    	"goldline": {
+    		"name": "Goldline",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:end_portal_frame",
+    	},
+    	"sunrise": {
+    		"name": "Sunrise",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:activator_rail",
+    	},
+    	"ultraviolet": {
+    		"name": "Ultraviolet",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:powered_rail",
+    	},
+    	"cyber_circuit": {
+    		"name": "Cyber Circuit",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:snow",
+    	},
+    	"speed_champion": {
+    		"name": "Speed Champion",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:stone_pressure_plate",
+    	},
+    	"creeper_attack": {
+    		"name": "Creeper Attack",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:cobblestone_stairs",
+    	},
+    	"white_panther": {
+    		"name": "White Panther",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:dragon_egg",
+    	},
+    	"dragon_tamer": {
+    		"name": "Dragon Tamer",
+    		"brand": "Slothdinger",
+    		"block": "minecraft:oak_pressure_plate",
+    	},
+    	"diablo": {
+    		"name": "Diablo",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:furnace",
+    	},
+    	"junker": {
+    		"name": "Junker",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:crafting_table",
+    	},
+    	"frostbit": {
+    		"name": "Frostbit",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:chipped_anvil",
+    	},
+    	"vortex_driver": {
+    		"name": "Vortex Driver",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:emerald_ore",
+    	},
+    	"corrosive_stallion": {
+    		"name": "Corrosive Stallion",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:redstone_ore",
+    	},
+    	"impact_maniac": {
+    		"name": "Impact Maniac",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:acacia_fence",
+    	},
+    	"night_fire": {
+    		"name": "Night Fire",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:dark_oak_fence",
+    	},
+    	"hot_rod": {
+    		"name": "Hot Rod",
+    		"brand": "Turbobrine",
+    		"block": "minecraft:gold_ore",
+    	},
+    	"salamander": {
+    		"name": "Salamander",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:jukebox",
+    	},
+    	"glacius": {
+    		"name": "Glacius",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:podzol",
+    	},
+    	"silver_shadow": {
+    		"name": "Silver Shadow",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:anvil",
+    	},
+    	"golden_ace": {
+    		"name": "Golden Ace",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:brown_wool",
+    	},
+    	"street_sprinter": {
+    		"name": "Street Sprinter",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:cyan_wool",
+    	},
+    	"citrus_sunset": {
+    		"name": "Citrus Sunset",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:iron_ore",
+    	},
+    	"tribal_hunter": {
+    		"name": "Tribal Hunter",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:diamond_ore",
+    	},
+    	"beach_bubble": {
+    		"name": "Beach Bubble",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:green_wool",
+    	},
+    	"aerodynamic_azalea": {
+    		"name": "Aerodynamic Azalea",
+    		"brand": "Sphax Corp.",
+    		"block": "minecraft:coal_ore",
+    	}
+    },
+    "helmets": {
+    	"__COMMENT": "dyed_color is the color of the leather helmet menu item",
+    	"race_red": {
+    		"name": "Race Red",
+    		"brand": "Headline",
+    		"block": "minecraft:black_carpet",
+    		"dyed_color": 13717841
+    	},
+    	"sunset": {
+    		"name": "Sunset",
+    		"brand": "Headline",
+    		"block": "minecraft:brown_carpet",
+    		"dyed_color": 16050241
+    	},
+    	"ocean": {
+    		"name": "Ocean",
+    		"brand": "Headline",
+    		"block": "minecraft:blue_carpet",
+    		"dyed_color": 4301044
+    	},
+    	"shadow_aura": {
+    		"name": "Shadow Aura",
+    		"brand": "Headline",
+    		"block": "minecraft:sandstone_slab",
+    	},
+    	"empower_flower": {
+    		"name": "Empower Flower",
+    		"brand": "Headline",
+    		"block": "minecraft:spruce_stairs",
+    	},
+    	"bright_star": {
+    		"name": "Bright Star",
+    		"brand": "Headline",
+    		"block": "minecraft:quartz_slab",
+    	},
+    	"wheat_field": {
+    		"name": "Wheat Field",
+    		"brand": "Headline",
+    		"block": "minecraft:oak_slab",
+    	},
+    	"vintage_biker": {
+    		"name": "Vintage Biker",
+    		"brand": "Headline",
+    		"block": "minecraft:jungle_slab",
+    	},
+    	"amethyst": {
+    		"name": "Amethyst",
+    		"brand": "Classico",
+    		"block": "minecraft:cyan_carpet",
+    		"dyed_color": 16050241
+    	},
+    	"ruby": {
+    		"name": "Ruby",
+    		"brand": "Classico",
+    		"block": "minecraft:gray_carpet",
+    		"dyed_color": 16007489
+    	},
+    	"emerald": {
+    		"name": "Emerald",
+    		"brand": "Classico",
+    		"block": "minecraft:green_carpet",
+    		"dyed_color": 16007489
+    	},
+    	"quartz": {
+    		"name": "Quartz",
+    		"brand": "Classico",
+    		"block": "minecraft:stone_brick_slab",
+    	},
+    	"wah_bang": {
+    		"name": "Wah-Bang!",
+    		"brand": "Classico",
+    		"block": "minecraft:spruce_slab",
+    	},
+    	"ender": {
+    		"name": "Ender",
+    		"brand": "Classico",
+    		"block": "minecraft:brick_slab",
+    	},
+    	"pumpkin_spice": {
+    		"name": "Pumpkin Spice",
+    		"brand": "Classico",
+    		"block": "minecraft:nether_brick_stairs",
+    	},
+    	"noob_shield": {
+    		"name": "Noob Shield",
+    		"brand": "Classico",
+    		"block": "minecraft:sandstone_stairs",
+    	},
+    	"banana": {
+    		"name": "Banana",
+    		"brand": "Noggin Cap",
+    		"block": "minecraft:light_blue_carpet",
+    		"dyed_color": 16044097
+    	},
+    	"peach": {
+    		"name": "Peach",
+    		"brand": "Noggin Cap",
+    		"block": "minecraft:lime_carpet",
+    		"dyed_color": 16007557
+    	},
+    	"apple": {
+    		"name": "Apple",
+    		"brand": "Noggin Cap",
+    		"block": "minecraft:magenta_carpet",
+    		"dyed_color": 8385601
+    	},
+    	"electro_route": {
+    		"name": "Electro Route",
+    		"brand": "Noggin Cap",
+    		"block": "minecraft:dark_oak_slab",
+    	},
+    	"frosted_bliss": {
+    		"name": "Frosted Bliss",
+    		"brand": "Noggin Cap",
+    		"block": "minecraft:nether_brick_slab",
+    	},
+    	"diamond": {
+    		"name": "Diamond",
+    		"brand": "Bonnet",
+    		"block": "minecraft:orange_carpet",
+    		"dyed_color": 4322500
+    	},
+    	"redstone": {
+    		"name": "Redstone",
+    		"brand": "Bonnet",
+    		"block": "minecraft:pink_carpet",
+    		"dyed_color": 9838881
+    	},
+    	"obsidian": {
+    		"name": "Obsidian",
+    		"brand": "Bonnet",
+    		"block": "minecraft:purple_carpet",
+    		"dyed_color": 1581840
+    	},
+    	"lapis": {
+    		"name": "Lapis",
+    		"brand": "Bonnet",
+    		"block": "minecraft:stone_brick_stairs",
+    	},
+    	"netherrack": {
+    		"name": "Netherrack",
+    		"brand": "Bonnet",
+    		"block": "minecraft:red_sandstone_stairs",
+    	},
+    	"ancestral": {
+    		"name": "Ancestral",
+    		"brand": "Bonnet",
+    		"block": "minecraft:oak_stairs",
+    	},
+    	"shadow_hunter": {
+    		"name": "Shadow Hunter",
+    		"brand": "Bonnet",
+    		"block": "minecraft:acacia_fence_gate",
+    	},
+    	"bone": {
+    		"name": "Bone",
+    		"brand": "Warrior",
+    		"block": "minecraft:red_carpet",
+    		"dyed_color": 10264709
+    	},
+    	"lizard": {
+    		"name": "Lizard",
+    		"brand": "Warrior",
+    		"block": "minecraft:light_gray_carpet",
+    		"dyed_color": 9282406
+    	},
+    	"ghost": {
+    		"name": "Ghost",
+    		"brand": "Warrior",
+    		"block": "minecraft:white_carpet",
+    		"dyed_color": 15724522
+    	},
+    	"beast": {
+    		"name": "Beast",
+    		"brand": "Warrior",
+    		"block": "minecraft:cobblestone_wall",
+    	},
+    	"wyvern": {
+    		"name": "Wyvern",
+    		"brand": "Warrior",
+    		"block": "minecraft:acacia_stairs",
+    	},
+    	"green": {
+    		"name": "Green",
+    		"brand": "Mantis",
+    		"block": "minecraft:yellow_carpet",
+    		"dyed_color": 2578716
+    	},
+    	"white": {
+    		"name": "White",
+    		"brand": "Mantis",
+    		"block": "minecraft:acacia_sapling",
+    		"dyed_color": 7699572
+    	},
+    	"purple": {
+    		"name": "Purple",
+    		"brand": "Mantis",
+    		"block": "minecraft:birch_sapling",
+    		"dyed_color": 9131432
+    	},
+    	"magma": {
+    		"name": "Magma",
+    		"brand": "Mantis",
+    		"block": "minecraft:cobblestone_slab",
+    	},
+    	"lime": {
+    		"name": "Lime",
+    		"brand": "Casque",
+    		"block": "minecraft:hay_block",
+    		"dyed_color": 4768865
+    	},
+    	"orange": {
+    		"name": "Orange",
+    		"brand": "Casque",
+    		"block": "minecraft:dark_oak_sapling",
+    		"dyed_color": 13542239
+    	},
+    	"blueberry": {
+    		"name": "Blueberry",
+    		"brand": "Casque",
+    		"block": "minecraft:jungle_sapling",
+    		"dyed_color": 5887689
+    	},
+    	"early_morning": {
+    		"name": "Early Morning",
+    		"brand": "Casque",
+    		"block": "minecraft:jungle_fence_gate",
+    	},
+    	"neon_jockey": {
+    		"name": "Neon Jockey",
+    		"brand": "Casque",
+    		"block": "minecraft:spruce_fence_gate",
+    	},
+    	"dark_mercenary": {
+    		"name": "Dark Mercenary",
+    		"brand": "Casque",
+    		"block": "minecraft:dark_oak_fence_gate",
+    	},
+    	"head_in_the_water": {
+    		"name": "Head in the Water",
+    		"brand": "Casque",
+    		"block": "minecraft:oak_fence_gate",
+    	},
+    	"space_mercenary": {
+    		"name": "Space Mercenary",
+    		"brand": "Casque",
+    		"block": "minecraft:birch_fence_gate",
+    	},
+    	"void": {
+    		"name": "Void",
+    		"brand": "Offroader",
+    		"block": "minecraft:oak_sapling",
+    		"dyed_color": 2040611
+    	},
+    	"fields": {
+    		"name": "Fields",
+    		"brand": "Offroader",
+    		"block": "minecraft:spruce_sapling",
+    		"dyed_color": 2840873
+    	},
+    	"river": {
+    		"name": "River",
+    		"brand": "Offroader",
+    		"block": "minecraft:orange_tulip",
+    		"dyed_color": 7185816
+    	},
+    	"pearl_white": {
+    		"name": "Pearl White",
+    		"brand": "Offroader",
+    		"block": "minecraft:mossy_cobblestone_wall",
+    	},
+    	"orchid": {
+    		"name": "Orchid",
+    		"brand": "Speedster",
+    		"block": "minecraft:pink_tulip",
+    		"dyed_color": 8670826
+    	},
+    	"tangerine": {
+    		"name": "Tangerine",
+    		"brand": "Speedster",
+    		"block": "minecraft:red_tulip",
+    		"dyed_color": 10061880
+    	},
+    	"cerulean": {
+    		"name": "Cerulean",
+    		"brand": "Speedster",
+    		"block": "minecraft:white_tulip",
+    		"dyed_color": 47019
+    	},
+    	"happy_emote": {
+    		"name": "Happy Emote",
+    		"brand": "Speedster",
+    		"block": "minecraft:jungle_stairs",
+    	},
+    	"stache_emote": {
+    		"name": "'Stache Emote",
+    		"brand": "Speedster",
+    		"block": "minecraft:quartz_stairs",
+    	},
+    	"love_nugget": {
+    		"name": "Love Nugget",
+    		"brand": "Speedster",
+    		"block": "minecraft:birch_stairs",
+    	},
+    	"smirk_emote": {
+    		"name": "Smirk Emote",
+    		"brand": "Speedster",
+    		"block": "minecraft:brick_stairs",
+    	},
+    	"cool_emote": {
+    		"name": "Cool Emote",
+    		"brand": "Speedster",
+    		"block": "minecraft:dark_oak_stairs",
+    	},
+    	"bubblegum": {
+    		"name": "Bubblegum",
+    		"brand": "Futurehelm",
+    		"block": "minecraft:snow_block",
+    		"dyed_color": 3316044
+    	},
+    	"gobstopper": {
+    		"name": "Gobstopper",
+    		"brand": "Futurehelm",
+    		"block": "minecraft:daylight_detector",
+    		"dyed_color": 9845549
+    	},
+    	"bonbon": {
+    		"name": "Bonbon",
+    		"brand": "Futurehelm",
+    		"block": "minecraft:pink_wool",
+    		"dyed_color": 16720128
+    	},
+    	"agility_boss": {
+    		"name": "Agility Boss",
+    		"brand": "Futurehelm",
+    		"block": "minecraft:acacia_slab",
+    	},
+    	"d_goggles": {
+    		"name": "D. Goggles",
+    		"brand": "Futurehelm",
+    		"block": "minecraft:packed_ice",
+    	},
+    	"commander_eagle": {
+    		"name": "Commander Eagle",
+    		"brand": "Futurehelm",
+    		"block": "minecraft:birch_slab",
+    	}
+    },
+    "armor": {
+    	"leather": "Hypesweggen",
+    	"golden": "Slothdinger",
+    	"chainmail": "Blueshell Inc.",
+    	"iron": "Sphax Corp.",
+    	"diamond": "Turbobrine"
+    },
+    "horns": {
+    	"shy": {
+    		"name": "Shy",
+    		"file": "horns/shy",
+    		"sound": "horns.horn.a",
+    		"subtitle": "subtitles.tkr.horns.shy"
+    	},
+    	"alien": {
+    		"name": "Alien",
+    		"file": "horns/alien",
+    		"sound": "horns.horn.b",
+    		"subtitle": "subtitles.tkr.horns.alien"
+    	},
+    	"buxy_taxi": {
+    		"name": "Busy Taxi",
+    		"file": "horns/busy_taxi",
+    		"sound": "horns.horn.c",
+    		"subtitle": "subtitles.tkr.horns.busy_taxi"
+    	},
+    	"default": {
+    		"name": "Default",
+    		"file": "horns/default",
+    		"sound": "horns.horn.d",
+    		"subtitle": "subtitles.tkr.horns.default"
+    	},
+    	"klaxon": {
+    		"name": "Klaxon",
+    		"file": "horns/klaxon",
+    		"sound": "horns.horn.e",
+    		"subtitle": "subtitles.tkr.horns.klaxon"
+    	},
+    	"tricycle": {
+    		"name": "Tricycle",
+    		"file": "horns/tricycle",
+    		"sound": "horns.horn.f",
+    		"subtitle": "subtitles.tkr.horns.tricycle"
+    	},
+    	"road_driver": {
+    		"name": "Road Driver",
+    		"file": "horns/road_driver",
+    		"sound": "horns.horn.g",
+    		"subtitle": "subtitles.tkr.horns.road_driver"
+    	},
+    	"alarm": {
+    		"name": "Alarm",
+    		"file": "horns/alarm",
+    		"sound": "horns.horn.h",
+    		"subtitle": "subtitles.tkr.horns.alarm"
+    	},
+    	"kloon": {
+    		"name": "Kloon",
+    		"file": "horns/kloon",
+    		"sound": "horns.horn.i",
+    		"subtitle": "subtitles.tkr.horns.kloon"
+    	},
+    	"teddy_bear": {
+    		"name": "Teddy Bear",
+    		"file": "horns/teddy_bear",
+    		"sound": "horns.horn.j",
+    		"subtitle": "subtitles.tkr.horns.teddy_bear"
+    	},
+    	"truck": {
+    		"name": "Truck",
+    		"file": "horns/truck",
+    		"sound": "horns.horn.k",
+    		"subtitle": "subtitles.tkr.horns.truck"
+    	},
+    	"jerry": {
+    		"name": "Jerry?",
+    		"file": null,
+    		"sound": "minecraft:entity.villager.ambient",
+    		"subtitle": "subtitles.entity.villager.ambient"
+    	}
+    },
+    "blocks": {
+    	"pickup_coin": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":false, "south":false, "east":true, "west":false}
+    	},
+    	"pickup_item": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":true, "south":false, "east":false, "west":false}
+    	},
+    	"jump_pad": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":false, "south":true, "east":false, "west":false}
+    	},
+    	"boost_pad_1": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":false, "south":true, "east":false, "west":true}
+    	},
+    	"boost_pad_2": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":false, "south":true, "east":true, "west":false}
+    	},
+    	"boost_pad_big_1": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":true, "south":false, "east":false, "west":true}
+    	},
+    	"boost_pad_big_2": {
+    		"block": "minecraft:brown_mushroom_block",
+    		"blockstate": {"north":true, "south":false, "east":true, "west":false}
+    	},
+    	"finish_line": {
+    		"block": "minecraft:red_mushroom_block"
+    	},
+    	"road_line": {
+    		"block": "minecraft:redstone_wire"
+    	}
+    }
+}

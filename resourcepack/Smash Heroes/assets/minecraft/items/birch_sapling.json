@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/marauder"
+    "model": "smash:item/head/marauder"
   }
 }

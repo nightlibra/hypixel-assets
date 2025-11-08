@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/void_crawler_master"
+    "model": "smash:item/head/void_crawler_master"
   }
 }

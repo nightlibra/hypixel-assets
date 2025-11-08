@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/effect/shoop_beam"
+    "model": "smash:item/entity/effect/shoop_beam"
   }
 }

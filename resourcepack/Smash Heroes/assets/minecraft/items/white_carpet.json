@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/flying_pig"
+    "model": "smash:item/entity/flying_pig"
   }
 }

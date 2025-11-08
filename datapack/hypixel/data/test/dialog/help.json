@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:notice",
+  "title": "Help and Information",
+  "external_title": "Help",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": "The Hypixel Assets World is a consolidation of numerous official Hypixel lobbies and maps. You can navigate through them using the Warp Menu.",
+      "width": 400
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": "Several tools are included to aid in resource pack debugging and development, such as the Test World, creative inventory searching, and various functions.",
+      "width": 300
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": ["For example, try searching ",{"text":"#hypesweggen","color":"gray"}," or ",{"text":"#bulk","color":"gray"}," in the creative inventory, preferably with the relevant resource pack. Or try running ",{"text":"/function c:equip","color":"gray"}," while holding a block."],
+      "width": 300
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": ["\n\n\n\n\n",{"text":"This passion project is not endorsed by Hypixel.\nFor more information, visit the ","color":"dark_gray"},{"text":"Project GitHub","color":"blue","underlined":true,"click_event":{"action":"open_url","url":"https://github.com/nightlibra/hypixel-assets"}},{"text":".","color":"dark_gray"}],
+      "width": 300
+    }
+  ],
+  "action": {
+    "label": {
+      "translate": "gui.back"
+    },
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:options"
+    }
+  }
+}

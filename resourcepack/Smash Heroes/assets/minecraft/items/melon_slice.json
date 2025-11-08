@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/lightsaber_master"
+    "model": "smash:item/weapon/lightsaber_master"
   }
 }

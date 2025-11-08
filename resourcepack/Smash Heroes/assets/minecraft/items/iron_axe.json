@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/void_edge"
+    "model": "smash:item/weapon/void_edge"
   }
 }

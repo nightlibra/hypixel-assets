@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/blaster_master"
+    "model": "smash:item/weapon/blaster_master"
   }
 }

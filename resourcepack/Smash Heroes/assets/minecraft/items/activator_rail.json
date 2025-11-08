@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/sgt_shield"
+    "model": "smash:item/head/sgt_shield"
   }
 }

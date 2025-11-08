@@ -2,7 +2,11 @@
   "type": "minecraft:multi_action",
   "title": "Links",
   "exit_action": {
-    "label": "Exit"
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:options"
+    }
   },
   "columns": 1,
   "actions": [

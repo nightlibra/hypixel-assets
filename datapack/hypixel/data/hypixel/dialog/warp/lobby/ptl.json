@@ -18,7 +18,7 @@
       }
     },
     {
-      "label": "Prototype Lobby (2018)",
+      "label": "Prototype Lobby (2017)",
       "action": {
         "type": "minecraft:run_command",
         "command": "/execute in hypixel:lobby/prototype/2017 run tp @s -152.5 69 148.5 90 0"

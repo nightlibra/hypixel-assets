@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/onion_ring"
+    "model": "smash:item/entity/onion_ring"
   }
 }

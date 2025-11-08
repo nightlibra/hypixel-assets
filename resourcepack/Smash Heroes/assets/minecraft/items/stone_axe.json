@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/hand/karakot"
+    "model": "smash:item/weapon/hand/karakot"
   }
 }

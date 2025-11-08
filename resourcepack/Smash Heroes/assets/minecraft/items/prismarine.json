@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/spider"
+    "model": "smash:item/entity/spider"
   }
 }

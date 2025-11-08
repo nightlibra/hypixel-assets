@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/missile_egg"
+    "model": "smash:item/entity/missile_egg"
   }
 }

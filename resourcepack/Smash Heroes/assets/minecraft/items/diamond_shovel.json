@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/magnum_master"
+    "model": "smash:item/weapon/magnum_master"
   }
 }

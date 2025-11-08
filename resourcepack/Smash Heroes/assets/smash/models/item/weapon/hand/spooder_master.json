@@ -1,0 +1,6 @@
+{
+  "parent": "smash:item/template_hand",
+  "textures": {
+    "texture": "smash:item/weapon/hand/spooder_master"
+  }
+}

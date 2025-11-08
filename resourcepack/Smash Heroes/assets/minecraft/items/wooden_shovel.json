@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/menu/hero_prestige_locked"
+    "model": "smash:item/menu/hero_prestige_locked"
   }
 }

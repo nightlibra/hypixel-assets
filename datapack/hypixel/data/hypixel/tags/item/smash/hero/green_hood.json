@@ -2,6 +2,7 @@
   "values": [
     "minecraft:coal_ore",
     "minecraft:coal_block",
-    "minecraft:bow"
+    "minecraft:bow",
+    "minecraft:arrow"
   ]
 }

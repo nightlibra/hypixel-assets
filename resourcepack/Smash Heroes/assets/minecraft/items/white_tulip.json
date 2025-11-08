@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/batarang"
+    "model": "smash:item/weapon/batarang"
   }
 }

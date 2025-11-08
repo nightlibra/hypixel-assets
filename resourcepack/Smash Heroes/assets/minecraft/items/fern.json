@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/effect/fireball"
+    "model": "smash:item/entity/effect/fireball"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/botmobile"
+    "model": "smash:item/entity/botmobile"
   }
 }

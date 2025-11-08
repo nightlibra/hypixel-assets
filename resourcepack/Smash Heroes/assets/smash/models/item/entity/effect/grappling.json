@@ -1,0 +1,98 @@
+{
+  "__comment": "designed_by_hypixel_minecraft_server_with_bdcraft_cubik_pro_0.91_beta_-_http://bdcraft.net",
+  "textures": {
+    "texture": "smash:item/entity/effect/grappling",
+    "particle": "#texture"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        6,
+        6
+      ],
+      "to": [
+        16,
+        10,
+        10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            7,
+            8.5,
+            7.5,
+            9
+          ],
+          "texture": "#texture",
+          "cullface": "west"
+        },
+        "east": {
+          "uv": [
+            8.5,
+            7,
+            9,
+            7.5
+          ],
+          "texture": "#texture",
+          "cullface": "east"
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

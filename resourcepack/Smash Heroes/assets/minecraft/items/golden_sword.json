@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/jestress_club"
+    "model": "smash:item/weapon/jestress_club"
   }
 }

@@ -1,0 +1,15 @@
+The following resource packs are unmodified, downloaded from Hypixel while on 1.21.10
+They may be broken in the latest versions, including the one they were downloaded on.
+
+- Blocking Dead
+- Cops and Crims
+- Galaxy Wars
+- Pixel Painters
+- SkyWars Lucky Blocks
+- Soccer
+- Warlords
+
+The following resource packs are modified to be compatible with the latest Minecraft versions
+
+- Smash Heroes | 1.21.5+ | pending
+- Turbo Kart Racers | 1.21.5+ | https://hypixel.net/threads/6003095/

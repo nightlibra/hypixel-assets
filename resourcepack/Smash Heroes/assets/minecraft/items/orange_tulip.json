@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/cake"
+    "model": "smash:item/entity/cake"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "smash:item/entity/smash_crystal",
+  "textures": {
+    "texture": "smash:item/entity/smash_crystal_pending"
+  }
+}

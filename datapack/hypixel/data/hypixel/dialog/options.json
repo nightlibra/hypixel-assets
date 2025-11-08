@@ -7,6 +7,8 @@
   "columns": 1,
   "dialogs": [
     "hypixel:warp",
-    "hypixel:links"
+    "test:options",
+    "hypixel:links",
+    "test:help"
   ]
 }

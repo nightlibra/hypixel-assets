@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/head/skullfire_master"
+    "model": "smash:item/head/skullfire_master"
   }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "smash:item/template_menu",
+  "textures": {
+    "texture": "smash:item/menu/exp_booster_10"
+  }
+}

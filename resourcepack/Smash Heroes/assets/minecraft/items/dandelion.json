@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/rocket_launcher"
+    "model": "smash:item/weapon/rocket_launcher"
   }
 }

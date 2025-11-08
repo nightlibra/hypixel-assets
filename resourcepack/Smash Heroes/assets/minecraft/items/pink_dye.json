@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/shield_master"
+    "model": "smash:item/weapon/shield_master"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/weapon/ice_hammer"
+    "model": "smash:item/weapon/ice_hammer"
   }
 }

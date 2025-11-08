@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/entity/botbomb"
+    "model": "smash:item/entity/botbomb"
   }
 }

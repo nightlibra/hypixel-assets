@@ -1,0 +1,44 @@
+# remove previous set
+kill @e[type=minecraft:armor_stand,tag=smash.heads]
+
+# base
+summon minecraft:armor_stand ~3 ~ ~-7 {equipment:{head:{id:'minecraft:diamond_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~3 ~ ~-3 {equipment:{head:{id:'minecraft:magenta_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~3 ~ ~1 {equipment:{head:{id:'minecraft:blue_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~3 ~ ~5 {equipment:{head:{id:'minecraft:brown_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~-7 {equipment:{head:{id:'minecraft:iron_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~-3 {equipment:{head:{id:'minecraft:birch_sapling'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~1 {equipment:{head:{id:'minecraft:emerald_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~5 {equipment:{head:{id:'minecraft:redstone_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~-7 {equipment:{head:{id:'minecraft:black_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~-3 {equipment:{head:{id:'minecraft:activator_rail'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~1 {equipment:{head:{id:'minecraft:nether_quartz_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~5 {equipment:{head:{id:'minecraft:oak_sapling'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~-7 {equipment:{head:{id:'minecraft:cyan_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~-3 {equipment:{head:{id:'minecraft:pink_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~1 {equipment:{head:{id:'minecraft:powered_rail'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~5 {equipment:{head:{id:'minecraft:gold_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~15 ~ ~-7 {equipment:{head:{id:'minecraft:orange_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~15 ~ ~-3 {equipment:{head:{id:'minecraft:coal_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~15 ~ ~1 {equipment:{head:{id:'minecraft:lime_carpet'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~15 ~ ~5 {equipment:{head:{id:'minecraft:lapis_ore'}}, Tags:['smash.default','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+
+# master
+summon minecraft:armor_stand ~3 ~ ~-5 {equipment:{head:{id:'minecraft:cyan_wool'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~3 ~ ~-1 {equipment:{head:{id:'minecraft:light_blue_carpet'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~3 ~ ~3 {equipment:{head:{id:'minecraft:yellow_carpet'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~3 ~ ~7 {equipment:{head:{id:'minecraft:dispenser'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~-5 {equipment:{head:{id:'minecraft:magenta_wool'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~-1 {equipment:{head:{id:'minecraft:anvil'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~3 {equipment:{head:{id:'minecraft:sticky_piston'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~6 ~ ~7 {equipment:{head:{id:'minecraft:dropper'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~-5 {equipment:{head:{id:'minecraft:piston'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~-1 {equipment:{head:{id:'minecraft:detector_rail'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~3 {equipment:{head:{id:'minecraft:azure_bluet'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~9 ~ ~7 {equipment:{head:{id:'minecraft:chipped_anvil'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~-5 {equipment:{head:{id:'minecraft:damaged_anvil'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~-1 {equipment:{head:{id:'minecraft:light_gray_carpet'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~3 {equipment:{head:{id:'minecraft:powered_rail'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~12 ~ ~7 {equipment:{head:{id:'minecraft:green_carpet'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~15 ~ ~-5 {equipment:{head:{id:'minecraft:gray_wool'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}
+summon minecraft:armor_stand ~15 ~ ~-1 {equipment:{head:{id:'minecraft:coal_block'}}, Tags:['smash.master','smash.heads'], Invulnerable:true, NoGravity:true, NoBasePlate:true, Invisible:true, DisabledSlots:4144959, Rotation:[90,0]}

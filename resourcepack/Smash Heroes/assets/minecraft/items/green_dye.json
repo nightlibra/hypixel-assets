@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "smash_heroes:item/menu/ability"
+    "model": "smash:item/menu/ability"
   }
 }

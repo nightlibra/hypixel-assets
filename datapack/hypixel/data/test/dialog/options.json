@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:multi_action",
+  "title": "Test World Options",
+  "external_title": "Test World",
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "contents": ["The test world is a blank world for testing and debugging resource packs.\n\nUse ",{"text":"/function test:...", "color":"gray"}," for commands."],
+      "width": 200
+    }
+  ],
+  "exit_action": {
+    "label": {"translate":"gui.back"},
+    "action": {
+      "type": "minecraft:show_dialog",
+      "dialog": "hypixel:options"
+    }
+  },
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Warp",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/execute in test:world run tp @s 0 3 0 0 0"
+      }
+    },
+    {
+      "label": "Remove All Entities",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/kill @e[type=!player,predicate=test:world]"
+      }
+    },
+    {
+      "label": "Enable Dev Tools",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/datapack enable \"file/devtools\""
+      }
+    },
+    {
+      "label": "Disable Dev Tools",
+      "action": {
+        "type": "minecraft:run_command",
+        "command": "/datapack disable \"file/devtools\""
+      }
+    }
+  ]
+}
