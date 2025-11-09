@@ -44,5 +44,8 @@ You can download the latest version [HERE](https://drive.google.com/file/d/1_d88
 ## Contact
 - [My Project Discord](https://discord.gg/M7HqWKxDxS)
 
+## Links and References
+- The [Hypixel Map Archive](https://mega.nz/folder/zigm2SIb#tYUOFzpdng-PBsOx5cr85Q) and [Discord](https://discord.gg/D9b6nV8vJh).
+
 ## Disclaimer
 This is a passion project, and is not maintained nor endorsed by [Hypixel](https://hypixel.net). All assets provided here, including textures, models, map builds, etc are exclusively owned by Hypixel, contact them with any requests for useage permission. The world datapack was created by me, you are free to do with it as you see fit.
